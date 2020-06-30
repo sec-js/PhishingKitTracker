@@ -7,4 +7,4 @@ This repository holds a collection of Phishing Kits used by criminals to steal i
 **I am not responsible for any damage caused by the malware inside my repository and your negligence in general.**
 
 #### NB: Large File System Hahead
-PhishingKitTracker is stored into Git Large File System (git-lfs) due to the big amount of data tracked. You *should* install (git-lfs)[https://git-lfs.github.com/] first. 
+PhishingKitTracker is stored into Git Large File System (git-lfs) due to the big amount of data tracked. You *should* install [git-lfs](https://git-lfs.github.com/) first. 
