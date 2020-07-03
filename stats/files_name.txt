@@ -171,6 +171,7 @@
       1 Exce 2.zip
       1 DocuSigns.zip
       1 Dad.zip
+      1 COVID-19.gz
       1 CI.zip
       1 BONUSUSA.zip
       1 Apple-confrim.zip
