@@ -65,6 +65,7 @@
       1 online.bankofguam.com.zip
       1 onedrive.zip
       1 one.zip
+      1 office1.zip
       1 office.zip
       1 office.zip
       1 office.zip
@@ -78,6 +79,7 @@
       1 moodle-3.9.zip
       1 mona.png.zip
       1 minepompier.local.zip
+      1 microsoftonline.zip
       1 microsoftonline.secured.zip
       1 microsoft 2020.zip
       1 matchus (1).zip
