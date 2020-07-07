@@ -59,6 +59,7 @@
       1 www.amazon.com.login.checkout.completeorder.online
       1 worksitehealthsolutions.org
       1 vootseries.gq
+      1 vince-breaio.ml
       1 update-secure-information.habitatnation.com.au
       1 unlockedaccountvrf.ddns.net
       1 tudyfleet.com
@@ -67,6 +68,7 @@
       1 tj.pro-flosales.com
       1 teknicoreplast.com
       1 support.fb.pargonintl.pk
+      1 speciesstretch.com
       1 southnorth-71.ga
       1 sosureste.com
       1 shivamdesignerfabrics.com
@@ -92,6 +94,7 @@
       1 normativa-sicurezza-web-dati.org
       1 njkioakdsd.com
       1 nice83.com
+      1 ng.tigernotary.net
       1 nevergrowere.com
       1 murraymountain.buzz
       1 mon-remboursement-impots-gouv.tabac-gros.be
@@ -101,6 +104,7 @@
       1 mail.t-uber-sa.com
       1 mail.market-login-redirect.duckdns.org
       1 mail.gruporedinm.com.ar
+      1 logotech.in
       1 lesiga.elaborando.co
       1 khaty-71.cf
       1 kenpaullone.com
