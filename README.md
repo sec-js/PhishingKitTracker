@@ -35,8 +35,8 @@ In `stats` folder are mantained two up to dade files:
 No dups are tracked, by meaning that the frequency and the file names are uniques. So for example if you see something like: `3 li.humanbiomics-project.org` it means that in `li.humanbiomics-project.org` have been found three different Phishing Kits over time.
 
 Both of these files have been generate by simple bash scripts like:
-*. `ls raw/ | cut -d'_' -f1 | uniq -c | sort -bgr > stats/sites.txt`
-*. `ls raw/ | cut -d'_' -f2 | uniq -c | sort -bgr > stats/files_name.txt`
+- `ls raw/ | cut -d'_' -f1 | uniq -c | sort -bgr > stats/sites.txt`
+- `ls raw/ | cut -d'_' -f2 | uniq -c | sort -bgr > stats/files_name.txt`
 
 these scripts are run on every commit making files inline with the raw folder.
 
@@ -45,11 +45,29 @@ That file provides the similarity between the tracked Phishing Kits. It's a simp
 
 ### SIMILARITY.CSV structure
 
-TODO: `FileA,FileB,SimilarityAVG,SimilarityMin,SimilarityMax`
+The similarity structure is like the following one: `FileA,FileB,SimilarityAVG,SimilarityMin,SimilarityMax` where:
+- *FileA* is PhishingKit which is considered in that analysis.
+- *FileB* is the PhishingKit to be compared to PhishingKit FileA
+- *SimilarityAVG* is the Average in similarity. That average is calculated by computing the similarity check to every single (interesting) file in the PhishingKit archive (FileA) to every single (interesting) file in the PhishingKit archive to be compared (FileB)  
+- *SimilarityMin* is the lowest similarity value found between PhishingKitA and PhishingKitB
+- *SimilarityMax* is the highest similarity value found between PhishingKitA and PhishingKitB
 
-If you want to generate that file by your own I provide a simple script into the `src` folder.
+
+If you want to generate `similarity.csv` by your own I provide a simple and dirty script into the `src` folder. So far it has several limitations (for example it computes ZIP onli files). *please make pull requests for improving and empower it*. Each contribute would be very helpfull.
 
 ## SRC
 
+Please check those variables and change them at your will.
+
+```python
+EXTENSION_FOR_ANALYSIS = ['.html','.js','.vbs','.xls','.xlsm','.doc','.docm', '.ps1']
+OUTPUT_FILE =  'similarity.csv'                                                 
+RAW_FOLDER = '/tmp/raw/'                                                        
+TEMP_FOLDER = '/tmp/tt'     
+```
+
+The Python script is in a super early stage of development. Please help to improve it.
+
 ### Credits
 * Alen Pavlovic for the amazing image that I borrowed from [here](https://dribbble.com/Type08) 
+* agarwalkeshav8399 for code similarity algorithms from [here](https://www.geeksforgeeks.org/measuring-the-document-similarity-in-python/)
