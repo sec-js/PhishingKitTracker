@@ -116,6 +116,7 @@
       1 facebook.zip
       1 excelz.zip
       1 excelz.zip
+      1 excel.zip
       1 error
       1 docu.zip
       1 doc-new.zip
@@ -201,6 +202,7 @@
       1 AbsaOnline.zip
       1 AT
       1 ASB
+      1 AFile.zip
       1 ADOBE 6RAW.zip
       1 8765678.zip
       1 3d.zip
