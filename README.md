@@ -10,6 +10,7 @@
     <a href="https://opensource.org">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/marcoramilli/PhishingKitTracker">
 </p>
 
 <p align="center">
@@ -57,7 +58,7 @@ If you want to generate `similarity.csv` by your own I provide a simple and dirt
 
 ## SRC
 
-Please check those variables and change them at your will.
+Please check those variables (compute_similarity.py) and change them at your will.
 
 ```python
 EXTENSION_FOR_ANALYSIS = ['.html','.js','.vbs','.xls','.xlsm','.doc','.docm', '.ps1']
@@ -65,8 +66,40 @@ OUTPUT_FILE =  'similarity.csv'
 RAW_FOLDER = '/tmp/raw/'                                                        
 TEMP_FOLDER = '/tmp/tt'     
 ```
+Once you've changed them you can run the script and take a long rest. It will navigate through the `RAW_FOLDER`, grab the `.zip` files and tries to compute code similarity between them. At the very end it will save results into `OUTPUT_FILE`. From now you can import sucha a file into your favorite spreadsheet processor and elaborate the code similarity.
 
-The Python script is in a super early stage of development. Please help to improve it.
+So far the python script is able to only compare zip tracked phishingkit, for different compressed format it's still work in progress.
+
+NB: The Python script is in a super early stage of development. Please help to improve it.
+
+## How to contribute
+
+Introducing the walking script for different compression formats. In other words if you want to contribute you can write a new section such as the following one (`code_similarity.py`) but for different compression extensions such as: .tar.gz, .tar, .rar. /7z and so on and so forth.
+
+```python
+# Extracts Zip files based on EXTENSION_FOR_ANALYSIS. It returns the etire file
+# path for future works
+def extractZipAndReturnsIntereistingFiles(file_to_extract):
+    interesting_files = []
+    n_interesting_files = []
+    try:
+        with ZipFile(file_to_extract, 'r') as zipObj:
+            listOfFileNames = zipObj.namelist()
+            for fileName in listOfFileNames:
+                for ext in EXTENSION_FOR_ANALYSIS:
+                    if fileName.endswith(ext):
+                        try:
+                            zipObj.extract(fileName, TEMP_FOLDER)
+                            interesting_files.append(os.path.join(TEMP_FOLDER, fileName))
+                        except Exception as e:
+                            continue
+                    else:
+                        n_interesting_files.append(os.path.join(TEMP_FOLDER, fileName))
+    except Exception as e :
+        return interesting_files
+    return interesting_files
+  ```
+One more way to contribute is to make the comparison loop smarter and quicker. You might decide to parallelize taks by forking and spawning more process or by changing the way I use multi-threading in this quick and dirty statistic script. In conclusion every working pull is welcomed.
 
 ### Credits
 * Alen Pavlovic for the amazing image that I borrowed from [here](https://dribbble.com/Type08) 
