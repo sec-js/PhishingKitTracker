@@ -106,6 +106,7 @@
       1 index.php.gz
       1 index
       1 images.zip
+      1 ifsc
       1 iem6.zip
       1 ibilling.rar
       1 iTech-Update V2 (1).zip
