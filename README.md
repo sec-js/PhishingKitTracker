@@ -27,14 +27,12 @@ This repository holds a collection of Phishing Kits used by criminals to steal u
 `PhishingKitTracker` is stored into Git Large File System (git-lfs) due to the big amount of data tracked. You *should* install [git-lfs](https://git-lfs.github.com/) before cloning this repository. 
 
 ## RAW Data
-In `raw` folder are tracked the Phishing Kits in the original format. No manipulation are involved in that data. A backend script goes over malicious harvested websites (harvesting from common sources) and checks if Phishing Kits are in there. In a positive case (if a PhishingKit is found) the resulting file is downloaded and instantly added to that folder. This folder is tracked by using Git Large File System since many files are bigger than 100MB. This is a quite unexplored land since so you would find many interesting topics with high probability.
+In `raw` folder are tracked the Phishing Kits in the original format. No manipulation are involved in that data. A backend script goes over malicious harvested websites (harvesting from common sources) and checks if Phishing Kits are in there. In a positive case (if a PhishingKit is found) the resulting file is downloaded and instantly added to that folder. This folder is tracked by using Git Large File System since many files are bigger than 100MB. The "RAW Data" is a quite unexplored land, you would find many interesting topics with high probability. Please remember to cite that work if you find something from here, it would be very appreciated.
 
 ## STATS 
-In `stats` folder are mantained two up to dade files:
-1. `files_name` it holds the frequency of the found file names associate with kits. Inother words every phishing kit is saved on the phishing host with a name. This file keeps track about file name. If you are wondering why am I not tracking hashes, is because phishing kits are big specialized compressed archives, so it would make no sense at this stage (but check in `src` folder)
-2. `sites` it hols the frequency of the hosting domains. In other words where the phishing kit was found.
-No dups are tracked, by meaning that the frequency and the file names are uniques. So for example if you see something like: `3 li.humanbiomics-project.org` it means that in `li.humanbiomics-project.org` have been found three different Phishing Kits over time.
-
+In stats folder are maintained two up-to-date files:
+1. `files_name` it holds the frequency of the found file-names associate with kits. In other words every phishing kit is saved on the phishing host with a name. filke_name keeps track about every file names and its frequency. If you are wondering why am I not tracking hashes, is because phishing kits are big compressed archives, so it would make no sense at this stage since they always differ each other (but check in src folder for additional information)
+2. `sites` hols the frequency of the hosting domain names. In other words where the phishing kit was found. No duplicates are tracked by meaning that the frequency and the file names are unique. So for example if you see something like: `3 li.humanbiomics-project.org` it means that in `li.humanbiomics-project.org` have been found three different Phishing Kits over time.
 Both of these files have been generate by simple bash scripts like:
 - `ls raw/ | cut -d'_' -f1 | uniq -c | sort -bgr > stats/sites.txt`
 - `ls raw/ | cut -d'_' -f2 | uniq -c | sort -bgr > stats/files_name.txt`
@@ -42,7 +40,7 @@ Both of these files have been generate by simple bash scripts like:
 these scripts are run on every commit making files inline with the raw folder.
 
 On the other side a file called `similarity.csv` is provided with a tremendous delay due to the vast amount of time in generating it.
-That file provides the similarity between the tracked Phishing Kits. It's a simple CSV file so that you can import it on your favourite spreadsheet and make graphs, statistics or manipulate it in the way you prefer.  
+That file provides the similarity between the tracked Phishing Kits. It's a simple CSV file so that you can import it on your favorite spreadsheet and make graphs, statistics or manipulate it in the way you prefer.  
 
 ### SIMILARITY.CSV structure
 
@@ -54,7 +52,7 @@ The similarity structure is like the following one: `FileA,FileB,SimilarityAVG,S
 - *SimilarityMax* is the highest similarity value found between PhishingKitA and PhishingKitB
 
 
-If you want to generate `similarity.csv` by your own I provide a simple and dirty script into the `src` folder. So far it has several limitations (for example it computes ZIP onli files). *please make pull requests for improving and empower it*. Each contribute would be very helpfull.
+If you want to generate `similarity.csv` by your own I provide a simple and dirty script into the `src` folder. So far it has several limitations (for example it computes ZIP only files). please make pull requests for improving and empower it. Each contribute would be very helpful.
 
 ## SRC
 
@@ -66,7 +64,7 @@ OUTPUT_FILE =  'similarity.csv'
 RAW_FOLDER = '/tmp/raw/'                                                        
 TEMP_FOLDER = '/tmp/tt'     
 ```
-Once you've changed them you can run the script and take a long rest. It will navigate through the `RAW_FOLDER`, grab the `.zip` files and tries to compute code similarity between them. At the very end it will save results into `OUTPUT_FILE`. From now you can import sucha a file into your favorite spreadsheet processor and elaborate the code similarity.
+Once you've changed them you can run the script and take a long rest. It will navigate through the `RAW_FOLDER`, grab the `.zip` files and tries to compute code similarity between them. At the very end it will save results into `OUTPUT_FILE`. From now you can import such a a file into your favorite spreadsheet processor and elaborate the code similarity.
 
 So far the python script is able to only compare zip tracked phishingkit, for different compressed format it's still work in progress.
 
@@ -99,7 +97,7 @@ def extractZipAndReturnsIntereistingFiles(file_to_extract):
         return interesting_files
     return interesting_files
   ```
-One more way to contribute is to make the comparison loop smarter and quicker. You might decide to parallelize taks by forking and spawning more process or by changing the way I use multi-threading in this quick and dirty statistic script. In conclusion every working pull is welcomed.
+One more way to contribute is to make the comparison loop smarter and quicker. You might decide to parallelized task by forking and spawning more process or by changing the way I use multi-threading in this quick and dirty statistic script. In conclusion every working pull is welcomed.
 
 ### Credits
 * Alen Pavlovic for the amazing image that I borrowed from [here](https://dribbble.com/Type08) 
