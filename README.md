@@ -99,6 +99,19 @@ def extractZipAndReturnsIntereistingFiles(file_to_extract):
   ```
 One more way to contribute is to make the comparison loop smarter and quicker. You might decide to parallelized task by forking and spawning more process or by changing the way I use multi-threading in this quick and dirty statistic script. In conclusion every working pull is welcomed.
 
+### Cite The Work
+
+```
+@misc{ MR,
+       author = "Marco Ramilli",
+       title = "Phishing Kits Tracker",
+       year = "2020",
+       url = "https://marcoramilli.com/2020/07/13/introducing-phishingkittracker/",
+       note = "[Online; July 2020]"
+     }
+```
+
+
 ### Credits
 * Alen Pavlovic for the amazing image that I borrowed from [here](https://dribbble.com/Type08) 
 * agarwalkeshav8399 for code similarity algorithms from [here](https://www.geeksforgeeks.org/measuring-the-document-similarity-in-python/)
