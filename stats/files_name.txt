@@ -96,6 +96,7 @@
       1 microsoftonline.zip
       1 microsoftonline.secured.zip
       1 microsoft 2020.zip
+      1 mediclinic.zip
       1 matchus (1).zip
       1 magone.zip
       1 machinedeactivationnewpage.zip
@@ -114,6 +115,7 @@
       1 ibilling.rar
       1 iTech-Update V2 (1).zip
       1 https.zip
+      1 htaccess.zip
       1 hakam.zip
       1 gdrive-multi (3).zip
       1 gdocs.zip
@@ -219,6 +221,7 @@
       1 Dad.zip
       1 COVID-19.gz
       1 CI.zip
+      1 BTnew.zip
       1 BONUSUSA.zip
       1 Apple-confrim.zip
       1 Adobepdf.zip
