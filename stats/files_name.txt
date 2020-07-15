@@ -1,5 +1,6 @@
       3 osol modiriyat.rar
       2 login.made-in-china.com.zip
+      2 apple.zip
       2 Cox
       2 AFile.zip
       1 好的.zip
@@ -162,7 +163,6 @@
       1 auth2.zip
       1 assets.zip
       1 apple20202.zip
-      1 apple.zip
       1 appcovid.zip
       1 api.zip
       1 antibot.zip
