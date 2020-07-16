@@ -111,6 +111,7 @@
       1 kingkey.zip
       1 james.zip
       1 jagex-game.ru.zip
+      1 index.zip
       1 index.php.gz
       1 index
       1 images.zip
