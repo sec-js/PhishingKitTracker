@@ -28,6 +28,7 @@
       1 wordpress.zip
       1 wordpress-5.3.2.zip
       1 wordpress-5.2.3.zip
+      1 web.zip
       1 we.zip
       1 waybill.zip
       1 wT.zip
