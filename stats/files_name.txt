@@ -51,6 +51,7 @@
       1 smbce.zip
       1 smbc.co.jp.zip
       1 smartend.zip
+      1 sitemap.xml.gz
       1 site.zip
       1 simtebukptr.zip
       1 sharepoint (1).zip
