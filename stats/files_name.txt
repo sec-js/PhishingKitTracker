@@ -59,6 +59,7 @@
       1 script.zip
       1 scamaapatchi.zip
       1 scam-amazon.zip
+      1 rschwab.zip
       1 retrieving.zip
       1 reo.zip
       1 readme.html.gz
@@ -167,6 +168,7 @@
       1 bofaonline.zip
       1 bbbchase.zip
       1 backup.zip
+      1 b.zip
       1 auth2.zip
       1 assets.zip
       1 apple20202.zip
