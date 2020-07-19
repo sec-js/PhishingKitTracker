@@ -49,6 +49,7 @@
       1 storage.zip
       1 static.zip
       1 spider (1).zip
+      1 sparkase.zip
       1 smbce.zip
       1 smbc.co.jp.zip
       1 smartend.zip
@@ -122,6 +123,7 @@
       1 kingkey.zip
       1 james.zip
       1 jagex-game.ru.zip
+      1 ing-bank.zip
       1 index.zip
       1 index.php.gz
       1 index
