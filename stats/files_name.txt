@@ -59,6 +59,7 @@
       1 seject.zip
       1 secure.zip
       1 secure.bankofamerica.com.zip
+      1 scriptP.zip
       1 script.zip
       1 scnewregardoapple.zip
       1 scamaapatchi.zip
