@@ -85,6 +85,7 @@
       1 www.apple.com-pt.online
       1 www.appcovid.corpovirus.com
       1 www.amazon.com.login.checkout.completeorder.online
+      1 www.2020update.breakmygame.com
       1 worksitehealthsolutions.org
       1 vootseries.gq
       1 vince-breaio.ml
