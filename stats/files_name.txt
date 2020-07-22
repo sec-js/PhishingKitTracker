@@ -125,6 +125,7 @@
       1 magalu.zip
       1 machinedeactivationnewpage.zip
       1 m.zip
+      1 login.zip
       1 license.txt.gz
       1 li.zip
       1 lawyer.zip
