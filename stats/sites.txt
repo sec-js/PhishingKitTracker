@@ -15,6 +15,7 @@
       3 amin-os.persiangig.com
       3 52.156.78.167
       2 zgamers.cf
+      2 www.teamamaz.com
       2 www.rebarmodernfood.com
       2 www.rbcsecure.com
       2 www.myamazon-domainauthent.webredirect.org
@@ -202,6 +203,7 @@
       1 attriusgroup.com.br
       1 artofblackness.net
       1 armstrongvilla.com
+      1 ariannasm.com
       1 appleczrepblu.com
       1 ap-signin.us
       1 aorztacurztaian.com
