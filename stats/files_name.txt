@@ -169,6 +169,7 @@
       1 ex.zip
       1 error
       1 en.zip
+      1 ebay.zip
       1 eBay All File.zip
       1 docu.zip
       1 doc-new.zip
@@ -230,6 +231,7 @@
       1 SM
       1 Rak.zip
       1 Rak.zip
+      1 PayPal
       1 Panel.zip
       1 Page4all.zip
       1 PQ.zip
