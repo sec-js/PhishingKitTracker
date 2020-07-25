@@ -112,9 +112,11 @@
       1 office.zip
       1 office.zip
       1 office
+      1 noss.zip
       1 norm.zip
       1 nice83
       1 nfx.zip
+      1 netsms.zip
       1 mysteryshopper.zip
       1 mustache.zip
       1 mops.zip
@@ -192,6 +194,7 @@
       1 client.zip
       1 cla.zip
       1 ciaar.com.mx.zip
+      1 chronopost.zip
       1 chasebank 2020.zip
       1 chase2020 v2.zip
       1 chase.zip
