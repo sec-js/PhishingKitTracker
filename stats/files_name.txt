@@ -174,6 +174,7 @@
       1 excelz.zip
       1 excel.zip
       1 ex.zip
+      1 etoro.zip
       1 error
       1 en.zip
       1 ebay.zip
