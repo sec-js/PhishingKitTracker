@@ -143,6 +143,7 @@
       1 kingkey.zip
       1 james.zip
       1 jagex-game.ru.zip
+      1 itaucard nova - mobile.zip
       1 ing-bank.zip
       1 index.zip
       1 index.php.gz
