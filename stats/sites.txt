@@ -13,6 +13,7 @@
       3 mtq.riau.go.id
       3 li.humanbiomics-project.org
       3 konark.tech
+      3 khushalient.com
       3 essentialnotes.in
       3 enesmx.com
       3 businews.in
@@ -174,6 +175,7 @@
       1 mail.gruporedinm.com.ar
       1 luminaryshoppe.icu
       1 luceloflor.com
+      1 loveforevermea.com
       1 logotech.in
       1 lesiga.elaborando.co
       1 laughingchakra.icu
