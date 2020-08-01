@@ -86,6 +86,7 @@
       1 random.zip
       1 rak1.zip
       1 pwned.txt.gz
+      1 pura.zip
       1 public.zip
       1 protection.zip
       1 proposal (4).zip
@@ -149,6 +150,8 @@
       1 james.zip
       1 jagex-game.ru.zip
       1 itaucard nova - mobile.zip
+      1 itau30horas.zip
+      1 ita.zip
       1 ing-bank.zip
       1 index.zip
       1 index.php.gz
