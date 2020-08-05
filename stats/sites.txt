@@ -18,6 +18,7 @@
       3 khushalient.com
       3 essentialnotes.in
       3 enesmx.com
+      3 endless-weekends.co
       3 businews.in
       3 blog.mvlaorders.com
       3 annaharrisaccounting.com
@@ -289,6 +290,7 @@
       1 40.125.65.33
       1 35.247.195.180
       1 192.232.205.102
+      1 162.241.117.105
       1 162.222.215.163
       1 151.rs
       1 12online.cf
