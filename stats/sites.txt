@@ -23,6 +23,7 @@
       3 blog.mvlaorders.com
       3 annaharrisaccounting.com
       3 amin-os.persiangig.com
+      3 agreatbartender.com
       3 52.156.78.167
       3 30horasdigital.com
       2 zgamers.cf
@@ -63,6 +64,7 @@
       2 brutestc.gq
       2 boatmaidsarkansas.com
       2 batesmutablev.com
+      2 activation.yj.fr
       2 acm1.eim.ae.iwc.static.c11n.todiplywood.com
       2 203.190.37.133
       2 162.241.117.179
@@ -290,13 +292,14 @@
       1 andreatomaselli.it
       1 amozeon.webstarterz.com
       1 almightypouldn.com
+      1 alibaba.vritta.in
       1 akiba.27s.co
       1 aircrew111.crccoleccionables.com
       1 ahorainc.org
       1 afa.fnimes.com.my
+      1 aelpk.com
       1 advancedchannel.com
       1 adaisr-au.com
-      1 activation.yj.fr
       1 40.125.65.33
       1 35.247.195.180
       1 192.232.205.102
