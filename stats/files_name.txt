@@ -218,6 +218,8 @@
       1 excel.zip
       1 ex.zip
       1 etoro.zip
+      1 etisalat.zip
+      1 eti-query.zip
       1 error
       1 enabled-true.zip
       1 en.zip
