@@ -25,6 +25,7 @@
       1 wp-links-opml.zip
       1 wp-links-opml.php.gz
       1 wp-cron.php.gz
+      1 wp-connect.zip
       1 wp-config.php.gz
       1 wp-comments-post.php.gz
       1 wp-blog-header.php.gz
