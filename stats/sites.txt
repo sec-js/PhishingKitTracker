@@ -59,7 +59,6 @@
       2 secured-box.icu
       2 rjhumancare.com
       2 rc-israel.co.il
-      2 patkitechnosolutions.in
       2 mno.naomigoff.com
       2 loudhawseholet.com
       2 lawyer.ahmed-ajory.com
@@ -119,7 +118,6 @@
       1 www.itaucartoes.info
       1 www.invoice.techsource-bd.com
       1 www.invoice.imunir.net
-      1 www.instagramhelpforuser.com
       1 www.ifixedmycredit.com
       1 www.icloud.sbs-sa.com
       1 www.grub-whatsapp53.dns04.com
@@ -203,6 +201,7 @@
       1 paypal-limited.pdcotton.com
       1 paypal-important-security.com
       1 patriciammartinez.com
+      1 patkitechnosolutions.in
       1 paddlepedal.com
       1 outshineresidences.icu
       1 ourcapitalone.com
@@ -252,7 +251,6 @@
       1 instagram-recovery-challenge.dynamic-dns.net
       1 impulsomedico.com.mx
       1 ifixedmycredit.com
-      1 ict.co.ug
       1 humanshushy.com
       1 hinamahina.com
       1 helentashley.com

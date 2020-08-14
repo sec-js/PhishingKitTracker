@@ -8,7 +8,6 @@
       2 Bankofamerica.zip
       2 AFile.zip
       1 好的.zip
-      1 Özel.zip
       1 zoosk.zip
       1 zipper-2020-08-05--00-23.zip
       1 zipper-2020-08-04--23-47.zip
@@ -220,7 +219,6 @@
       1 ifsc
       1 ifixedmycredit.zip
       1 iem6.zip
-      1 ictbackup.zip
       1 ibilling.rar
       1 iTech-Update V2 (1).zip
       1 https.zip
@@ -351,7 +349,6 @@
       1 ShopifyFIX.zip
       1 Security
       1 Scama.zip
-      1 SangaliMahanagarPalika.zip
       1 SM
       1 SANTACTUAL208.zip
       1 RespaldoSitioJulio.zip
