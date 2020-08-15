@@ -8,6 +8,7 @@
       4 usisandbox.com
       4 paypal-account.my.id
       4 hostingnetweb.com
+      4 etisalatebills.com
       3 www.paypal.32008.net
       3 www.jakartascienceacademy.com
       3 www.allaboutanalysis.com
@@ -69,7 +70,6 @@
       2 iwantall-71.gq
       2 groppymaurice.com
       2 gordoncsolutions.co.za
-      2 etisalatebills.com
       2 demo.towerthemes.com
       2 davivienda.cualquier-cosa.com
       2 chase.com.clarkandwilkins.com
