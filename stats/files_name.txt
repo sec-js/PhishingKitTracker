@@ -381,6 +381,7 @@
       1 PAGE INT.zip
       1 PACE.zip
       1 Owa (1).zip
+      1 Outlook-New.zip
       1 Onedrive1000.zip
       1 OneDr1ve.zip
       1 Officevaleryval014 (1).zip
@@ -422,6 +423,7 @@
       1 Elite.zip
       1 Dropbox.zip
       1 Dropbox.zip
+      1 Driveee.zip
       1 DocuSigns.zip
       1 Dhl-Auto.zip
       1 Dad.zip
