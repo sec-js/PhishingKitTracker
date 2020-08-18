@@ -43,6 +43,7 @@
       1 wp-activate.php.gz
       1 wordpress.zip
       1 wordpress.zip
+      1 wordpress-5.5.zip
       1 wordpress-5.5-ar.zip
       1 wordpress-5.4.2.zip
       1 wordpress-5.4.1.zip

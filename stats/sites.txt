@@ -136,6 +136,7 @@
       1 www.demo.webwhatsapp.com.ar
       1 www.coronavirusmeter.formy.in
       1 www.corona.w365.com.mx
+      1 www.comuisecurity.co.tz
       1 www.client.solutionticket.com
       1 www.clickbank.shopbebap.com
       1 www.chase-secure-login.com
