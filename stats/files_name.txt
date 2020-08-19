@@ -4,6 +4,7 @@
       2 login.made-in-china.com.zip
       2 kutipanbaru.zip
       2 apple.zip
+      2 OLUCHAS3.zip
       2 Cox
       2 Bankofamerica.zip
       2 AFile.zip
@@ -399,7 +400,6 @@
       1 Office2019.zip
       1 OWA.zip
       1 OPOODOOO.zip
-      1 OLUCHAS3.zip
       1 New Cococ.zip
       1 Netflix.zip
       1 Netflix 2.zip
