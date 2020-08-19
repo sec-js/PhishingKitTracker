@@ -26,6 +26,7 @@
       1 wwes.zip
       1 wtf.zip
       1 wso
+      1 wpcx.zip
       1 wp-trackback.php.gz
       1 wp-signup.php.gz
       1 wp-settings.php.gz
@@ -217,6 +218,7 @@
       1 ing-bank.zip
       1 index9671.zip
       1 index2.php.zip
+      1 index.zip
       1 index.zip
       1 index.php.gz
       1 index
