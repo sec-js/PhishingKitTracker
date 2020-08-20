@@ -47,6 +47,7 @@
       1 wordpress.zip
       1 wordpress-5.5.zip
       1 wordpress-5.5-ar.zip
+      1 wordpress-5.4.zip
       1 wordpress-5.4.2.zip
       1 wordpress-5.4.1.zip
       1 wordpress-5.4-ar.zip
@@ -175,6 +176,8 @@
       1 office.zip
       1 office.zip
       1 office
+      1 nyali566.zip
+      1 nyali.zip
       1 noss.zip
       1 norm.zip
       1 nice83
