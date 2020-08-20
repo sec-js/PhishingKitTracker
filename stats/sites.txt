@@ -10,6 +10,7 @@
       4 paypal-account.my.id
       4 hostingnetweb.com
       4 etisalatebills.com
+      4 dofus.app
       3 www.paypal.32008.net
       3 www.jakartascienceacademy.com
       3 www.allaboutanalysis.com
