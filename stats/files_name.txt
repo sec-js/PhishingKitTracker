@@ -59,6 +59,7 @@
       1 wordpress-5.2.3.zip
       1 wordpress-4.9.8 (1).zip
       1 whmcs
+      1 wedding.zip
       1 web.zip
       1 we.zip
       1 we tranfer new.zip
@@ -140,6 +141,7 @@
       1 readme.html.gz
       1 random.zip
       1 rak1.zip
+      1 quilt.zip
       1 pwned.txt.gz
       1 pura.zip
       1 public.zip
@@ -244,6 +246,7 @@
       1 itau30horas.zip
       1 ita.zip
       1 inx.zip
+      1 instruments.zip
       1 ing-bank.zip
       1 index9671.zip
       1 index2.php.zip
@@ -366,9 +369,11 @@
       1 authorization.zip
       1 auth2.zip
       1 athena (1).zip
+      1 asteroids.zip
       1 assets.zip
       1 assets.zip
       1 aspireexcel
+      1 art-antiques.zip
       1 apple20202.zip
       1 appcovid.zip
       1 api.zip
@@ -392,6 +397,7 @@
       1 admin.zip
       1 adaaobe.zip
       1 YAHOO-2018.zip
+      1 XBALTI V5.zip
       1 Work-Hard-V5(1).zip
       1 We-Transfer.zip
       1 WELSS
@@ -406,6 +412,7 @@
       1 ShopifyFIX.zip
       1 Security
       1 Scama.zip
+      1 Scam2K20App.zip
       1 SM
       1 SEANINVOICE-V.9.8.zip
       1 SANTACTUAL208.zip
@@ -413,6 +420,7 @@
       1 Rak.zip
       1 Rak.zip
       1 Paypal Original1.zip
+      1 PayPal.zip
       1 PayPal
       1 Panel.zip
       1 Page4all.zip
@@ -486,6 +494,7 @@
       1 Dad.zip
       1 DHL1.zip
       1 DHL new.zip
+      1 ChaseNewAnd-Letter-ToTest-Posted.zip
       1 Chase.zip
       1 Chase Fullz CC 12420.zip
       1 CRMsnj.zip
