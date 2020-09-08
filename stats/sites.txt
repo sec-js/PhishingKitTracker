@@ -231,6 +231,7 @@
       1 securemail.rkhobraa.com
       1 secure02admin-chase.com
       1 secure.verifingaccbilling.com
+      1 secure.jigthtmil.xyz
       1 secure-webapps33.com
       1 saradaniela.com
       1 santaideaoficial.com
