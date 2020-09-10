@@ -119,6 +119,7 @@
       1 sharepoint (1).zip
       1 service.zip
       1 seject.zip
+      1 secured.zip
       1 secure.zip
       1 secure.zip
       1 secure.bankofamerica.com.zip
