@@ -124,6 +124,7 @@
       1 secure.zip
       1 secure.zip
       1 secure.bankofamerica.com.zip
+      1 secure (1).zip
       1 scriptP.zip
       1 script.zip
       1 scnewregardoapple.zip
@@ -470,6 +471,7 @@
       1 Outlook-New.zip
       1 Onedrive1000.zip
       1 OneDrivepdf.zip
+      1 OneDrive.zip
       1 OneDr1ve.zip
       1 Officevaleryval014 (1).zip
       1 Officevaleryval014 (1).zip
