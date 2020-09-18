@@ -308,6 +308,7 @@
       1 massanuttenbikerental.com
       1 mallas.imaginesuweb.com
       1 mail.t-uber-sa.com
+      1 mail.paypal-recovery-support.gleeze.com
       1 mail.market-login-redirect.duckdns.org
       1 mail.gruporedinm.com.ar
       1 mail.goldenappletech.com
@@ -371,6 +372,7 @@
       1 deaddog.com.br
       1 de.ideatheatre.com
       1 cyclicslot.com
+      1 customer.paypal.restored.cemaco.vn
       1 cupom2.motog8-plus-ref-xt2019-2.com
       1 csp.cspafrica.org
       1 crswgratis.com
