@@ -22,6 +22,7 @@
       1 zipper-2020-08-04--19-39.zip
       1 zipper-2020-07-20--18-12.zip
       1 zipper-2020-07-20--18-11.zip
+      1 yahoo2020.zip
       1 xo.zip
       1 xmlrpc.php.gz
       1 xenforo
@@ -49,10 +50,12 @@
       1 wp-comments-post.php.gz
       1 wp-blog-header.php.gz
       1 wp-admin.zip
+      1 wp-admin.zip
       1 wp-activate.php.gz
       1 wordpress.zip
       1 wordpress.zip
       1 wordpress-5.5.zip
+      1 wordpress-5.5.1.zip
       1 wordpress-5.5-ar.zip
       1 wordpress-5.4.zip
       1 wordpress-5.4.2.zip
@@ -63,6 +66,7 @@
       1 wordpress-4.9.8 (1).zip
       1 without.zip
       1 whmcs
+      1 well-known.zip
       1 wedding.zip
       1 web.zip
       1 we.zip
@@ -295,6 +299,7 @@
       1 gygnew.zip
       1 grav-admin-v1.6.19.zip
       1 godaddy.zip
+      1 gni.zip
       1 gf.zip
       1 gdrive-multi (3).zip
       1 gdocs.zip
@@ -316,6 +321,7 @@
       1 facebook scam page.zip
       1 f.zip
       1 explosive-invoice.zip
+      1 excelz.zip
       1 excelz.zip
       1 excelz.zip
       1 excelz.zip
@@ -366,6 +372,7 @@
       1 chase2020 v2.zip
       1 chase.zip
       1 chase.zip
+      1 cgi-bin.zip
       1 capturas2.zip
       1 capturas.zip
       1 cannabis.zip
@@ -430,6 +437,7 @@
       1 admin.zip
       1 adaaobe.zip
       1 aMember.zip
+      1 Zimbfill.zip
       1 YAHOO-2018.zip
       1 XBALTI V5.zip
       1 Work-Hard-V5(1).zip
@@ -440,6 +448,7 @@
       1 WA
       1 W3LL
       1 W3LL
+      1 V!RUS.zip
       1 Untitled.zip
       1 USA.zip
       1 THREEBANKS2020.zip
@@ -524,6 +533,7 @@
       1 Fake-instagrame-master.zip
       1 Fac.zip
       1 FBlogic.zip
+      1 F.zip
       1 Exce 2.zip
       1 Elite.zip
       1 DropboxF.zip
@@ -532,6 +542,7 @@
       1 Driveee.zip
       1 Don.zip
       1 DocuSigns.zip
+      1 Docsign09.zip
       1 Dhl-Auto.zip
       1 Dad.zip
       1 DXG2020 (1).zip
@@ -603,6 +614,7 @@
       1 15.zip
       1 13.zip
       1 12pm.zip
+      1 123.zip
       1 12.zip
       1 11.zip
       1 10N1.zip
@@ -612,6 +624,7 @@
       1 1.zip
       1 1.zip
       1 1.zip
+      1 0nfile.zip
       1 0mega.zip
       1 0ffice.zip
       1 02211 (1).zip
