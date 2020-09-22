@@ -54,6 +54,7 @@
       2 vasltoy-71.tk
       2 ubreopliu.cloudns.cl
       2 uber-assist.com
+      2 tracker.co.tz
       2 toongroup.com
       2 tmt-moldova.com
       2 thebloggersociety.com
@@ -96,6 +97,7 @@
       2 activation.yj.fr
       2 acm1.eim.ae.iwc.static.c11n.todiplywood.com
       2 203.190.37.133
+      2 162.241.125.106
       2 162.241.117.179
       1 zohard.com
       1 zeronaked.com
@@ -222,7 +224,6 @@
       1 unlockedaccountvrf.ddns.net
       1 uniconet.cloudns.asia
       1 tudyfleet.com
-      1 tracker.co.tz
       1 tonuteamp.com
       1 toelvscribp.com
       1 toddyandassociates.com
@@ -461,7 +462,6 @@
       1 35.247.195.180
       1 192.232.205.102
       1 191.232.172.50
-      1 162.241.125.106
       1 162.241.117.105
       1 162.222.215.163
       1 151.rs
