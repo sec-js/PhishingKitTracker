@@ -338,6 +338,7 @@
       1 en.zip
       1 edrfgerg.zip
       1 ebay.zip
+      1 ebank.zip
       1 eBay All File.zip
       1 dropbox.zip
       1 dropbox.com-secure-file-view.zip
