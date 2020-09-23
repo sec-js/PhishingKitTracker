@@ -63,6 +63,7 @@
       1 wordpress-5.4-ar.zip
       1 wordpress-5.3.2.zip
       1 wordpress-5.2.3.zip
+      1 wordpress-5.0.3.zip
       1 wordpress-4.9.8 (1).zip
       1 without.zip
       1 whmcs
@@ -100,6 +101,7 @@
       1 test.zip
       1 test.zip
       1 templateatomic.zip
+      1 team.zip
       1 teaconsultancy.com.au.zip
       1 tbn.zip
       1 taxe (1).zip
