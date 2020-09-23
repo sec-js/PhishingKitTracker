@@ -36,6 +36,7 @@
       1 wso
       1 wrtjw46jnw46j.zip
       1 wpcx.zip
+      1 wp3.zip
       1 wp-trackback.php.gz
       1 wp-signup.php.gz
       1 wp-settings.php.gz
@@ -563,6 +564,7 @@
       1 Chase.zip
       1 Chase Fullz CC 12420.zip
       1 Chase Clean.zip
+      1 CastHelloVideo-chrome-master.zip
       1 CRMsnj.zip
       1 COVID-19.gz
       1 CI.zip
