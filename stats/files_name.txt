@@ -581,6 +581,7 @@
       1 Archive.zip
       1 Apple-confrim.zip
       1 Ap.zip
+      1 Amazon.zip
       1 Alibaba.com.zip
       1 Akaunting
       1 Adobepdf.zip
