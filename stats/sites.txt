@@ -12,6 +12,7 @@
       4 usisandbox.com
       4 paypal-account.my.id
       4 hostingnetweb.com
+      4 extremecompute.io
       4 etisalatebills.com
       3 www.paypal.32008.net
       3 www.jakartascienceacademy.com
@@ -24,7 +25,6 @@
       3 li.humanbiomics-project.org
       3 konark.tech
       3 khushalient.com
-      3 extremecompute.io
       3 essentialnotes.in
       3 enesmx.com
       3 endless-weekends.co
