@@ -571,6 +571,7 @@
       1 Summary.zip
       1 Spox
       1 Simple POS v4.0.29 Preinstalled.zip
+      1 Signage.zip
       1 ShopifyFIX.zip
       1 Security
       1 Scama.zip
