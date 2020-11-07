@@ -250,6 +250,7 @@
       1 officekml.zip
       1 officekml.zip
       1 office365.zip
+      1 office365-auto-2020 (1).zip
       1 office365-RD40 of,out,oth .zip
       1 office365 2018 (1).zip
       1 office2019.zip
