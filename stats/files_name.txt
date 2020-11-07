@@ -80,6 +80,7 @@
       1 whmcs
       1 whmcs
       1 whmcs
+      1 whitelist.zip
       1 wels.zip
       1 wellssecurity.zip
       1 wellsf.zip
