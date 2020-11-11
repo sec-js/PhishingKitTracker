@@ -250,6 +250,7 @@
       1 on.zip
       1 old.zip
       1 old.zip
+      1 ofs3.zip
       1 officekml.zip
       1 officekml.zip
       1 office365.zip
@@ -268,6 +269,8 @@
       1 office-en.zip
       1 office-cn.zip
       1 office
+      1 offdr.zip
+      1 ofc3.zip
       1 nyali566.zip
       1 nouvelle pour ref.zip
       1 noss.zip
