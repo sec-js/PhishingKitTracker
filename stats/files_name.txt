@@ -150,6 +150,7 @@
       1 smbc.co.jp.zip
       1 smartend.zip
       1 smart-school-v5.1.0.zip
+      1 skr7u4im8.zip
       1 sitemap.xml.gz
       1 site.zip
       1 sis.zip
