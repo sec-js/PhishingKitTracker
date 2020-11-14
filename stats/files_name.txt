@@ -387,6 +387,7 @@
       1 htr.zip
       1 html.zip
       1 htaccess.zip
+      1 hotmail (2).zip
       1 hosting-billing.zip
       1 home.zip
       1 home (1).zip
@@ -725,6 +726,7 @@
       1 DVLA.zip
       1 DHL1.zip
       1 DHL new.zip
+      1 DHL
       1 Chaze.zip
       1 ChaseNewAnd-Letter-ToTest-Posted.zip
       1 Chase.zip
