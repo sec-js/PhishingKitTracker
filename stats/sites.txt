@@ -51,6 +51,7 @@
       2 www.verification-annuelle-pay.pal.myapps24-7.com
       2 www.usisandbox.com
       2 www.teamamaz.com
+      2 www.support.chapclick.ir
       2 www.scotiambank-cl.ga
       2 www.rebarmodernfood.com
       2 www.rbcsecure.com
@@ -163,7 +164,6 @@
       1 www.tnm.solutions
       1 www.telegram.bitechminer.com
       1 www.support.services4schools.org.uk
-      1 www.support.chapclick.ir
       1 www.statusforwhatsapp.com
       1 www.special-selections.icu
       1 www.snstechnicalsupport.com
