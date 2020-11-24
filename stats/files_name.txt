@@ -126,6 +126,7 @@
       1 upload.zip
       1 update.zip
       1 UPDATED HALI.zip
+      1 update.craigslist.org.zip
       1 updatea.zip
       1 Untitled.zip
       1 ufj.zip
