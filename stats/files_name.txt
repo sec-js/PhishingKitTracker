@@ -486,6 +486,7 @@
       1 jagex-game.ru.zip
       1 j7yum61l.zip
       1 itunes generator.zip
+      1 ITSMI NEWS.zip
       1 itlearn.zip
       1 iTech-Update V2 (1).zip
       1 ita.zip
@@ -673,6 +674,7 @@
       1 codecanyon-L7lYEh0X-accountgo-accounting-and-billing-tool.zip
       1 codecanyon-24485085-olobank-online-banking-with-dps-loan.zip
       1 codecanyon-1Jf8r0Yw-qbill-inventory-management-system.zip
+      1 CODASHOP ITSMI.zip
       1 client.zip
       1 clef op.zip
       1 cla.zip
