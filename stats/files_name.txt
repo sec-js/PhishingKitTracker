@@ -18,6 +18,7 @@
       2 AFile.zip
       2 admin.zip
       1 好的.zip
+      1 z!.zip
       1 zubi.zip
       1 zoosk.zip
       1 zi.zip
@@ -625,6 +626,7 @@
       1 ebay.zip
       1 eBay All File.zip
       1 ebank.zip
+      1 d!.zip
       1 DXG2020 (1).zip
       1 DVLA.zip
       1 drv20.zip
