@@ -469,6 +469,7 @@
       1 mallas.imaginesuweb.com
       1 makeupbyashleyancheta.com
       1 mail.t-uber-sa.com
+      1 mail.tcpermaculture.com
       1 mail.paypal-recovery-support.gleeze.com
       1 mail.market-login-redirect.duckdns.org
       1 mail.gruporedinm.com.ar
@@ -514,6 +515,7 @@
       1 ht.teamhired.org
       1 hsbc.verifyrecentactivity.com
       1 hinamahina.com
+      1 hfx-cancel-payee.com
       1 help-twitter.net
       1 helentashley.com
       1 hecungen.com
