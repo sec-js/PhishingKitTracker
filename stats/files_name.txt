@@ -709,6 +709,7 @@
       1 covid-19.zip
       1 covid-19.zip
       1 COVID-19.gz
+      1 COVID
       1 costco.zip
       1 controller.zip
       1 contable.zip
