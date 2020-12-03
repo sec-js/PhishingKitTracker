@@ -671,6 +671,7 @@
       1 ap-signin.us
       1 apple-support.mauriciochaveiro.com.br
       1 apple-invoicepay.userrye.com
+      1 appleid.apple-sessionsecurity.pasaja.net
       1 appleczrepblu.com
       1 apialertsecrit1yppl.com
       1 aorztacurztaian.com
