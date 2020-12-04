@@ -54,6 +54,7 @@
       1 wtf.zip
       1 wso
       1 wrtjw46jnw46j.zip
+      1 wrongturn-2.zip
       1 wp-trackback.php.gz
       1 wp-signup.php.gz
       1 wp-settings.php.gz
