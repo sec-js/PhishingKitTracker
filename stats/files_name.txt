@@ -81,6 +81,7 @@
       1 wordpress-5.5-ar.zip
       1 wordpress-5.5.3.zip
       1 wordpress-5.5.1.zip
+      1 wordpress-5.5.1.zip
       1 wordpress-5.4.zip
       1 wordpress-5.4-ar.zip
       1 wordpress-5.4.2.zip
