@@ -67,6 +67,7 @@
       2 www.development.400startups.com
       2 www.culturanicolaita.umich.mx
       2 www.clientzips.tobysummerskill.org
+      2 www.cliente.centroderesoluciones.cf
       2 www.china-educations.com
       2 www.blockchainasic.com
       2 www.academia.edubo.org
@@ -299,7 +300,6 @@
       1 www.clients.etxcapital.online
       1 www.clientschat.protechgiant.com
       1 www.client.rzadev.com
-      1 www.cliente.centroderesoluciones.cf
       1 www.clickbank.shopbebap.com
       1 www.citizenship.maxdesign.rs
       1 www.chomesafe.xyz
