@@ -792,6 +792,7 @@
       1 chasebank.zip
       1 chasebank 2020.zip
       1 chase2020 v2.zip
+      1 chase2018.zip
       1 chase1.zip
       1 CHASE
       1 CHASE
