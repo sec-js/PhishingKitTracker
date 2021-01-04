@@ -234,6 +234,7 @@
       1 www.paypal-limited.pdcotton.com
       1 www.paypal.issues-three.com
       1 www.payment.preciousky.com
+      1 www.payment.buyinstaverification.xyz
       1 www.particulares.santander.particulier-agricole.net
       1 www.owlstyle.ir.educast.ir
       1 www.outlooks.live
