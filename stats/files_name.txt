@@ -24,6 +24,8 @@
       1 zubi.zip
       1 zoosk.zip
       1 zi.zip
+      1 zipper-2020-12-07--08-39.zip
+      1 zipper-2020-12-06--16-34.zip
       1 zipper-2020-08-05--00-23.zip
       1 zipper-2020-08-04--23-47.zip
       1 zipper-2020-08-04--23-45.zip
@@ -37,6 +39,7 @@
       1 zassl.zip
       1 zappppPPAGE.zip
       1 YHAYUK.zip
+      1 yellowpage.zip
       1 yahoo2020.zip
       1 YAHOO-2018.zip
       1 xwantedAnti[@Terminator1212].zip
@@ -119,6 +122,7 @@
       1 well-known.zip
       1 weellsfgo.zip
       1 wedding.zip
+      1 web.zip
       1 web.zip
       1 webpanel.zip
       1 webhook.zip
@@ -203,6 +207,7 @@
       1 ssl(1).zip
       1 spread.zip
       1 Spox
+      1 SPIN SEASON 16 V5.zip
       1 spider.zip
       1 spider (1).zip
       1 sparkase.zip
@@ -304,6 +309,7 @@
       1 public
       1 public
       1 PUBGSALJU16.zip
+      1 PUBGM
       1 protection.zip
       1 proposal (4).zip
       1 proforma.zip
@@ -879,6 +885,7 @@
       1 BOA FROM PATRICK.zip
       1 bmo.zip
       1 BlueUpdate.zip
+      1 blocklist.txt.zip
       1 bioçeken.zip
       1 binanceuniversal.com.zip
       1 BgeeGeneralUpdated.zip
@@ -907,6 +914,7 @@
       1 backup.zip
       1 backup.zip
       1 backup30thjune.zip
+      1 backup16dec2020.zip
       1 backdoored O2 (3).zip
       1 b1.zip
       1 b(1).zip
