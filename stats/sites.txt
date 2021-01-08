@@ -19,6 +19,7 @@
       4 extremecompute.io
       4 etisalatebills.com
       4 bdminfotech.in
+      3 www.trskl.com.br
       3 www.support.chapclick.ir
       3 www.superzaia.com.br
       3 www.royalsclubinternational.com
@@ -57,7 +58,6 @@
       2 zgamers.cf
       2 www.verification-annuelle-pay.pal.myapps24-7.com
       2 www.usisandbox.com
-      2 www.trskl.com.br
       2 www.teamamaz.com
       2 www.scotiambank-cl.ga
       2 www.rebarmodernfood.com
@@ -589,6 +589,7 @@
       1 mail.gruporedinm.com.ar
       1 mail.goldenappletech.com
       1 mahebrasil.com.br
+      1 maggiegallagher.com
       1 luminaryshoppe.icu
       1 luceloflor.com
       1 loveforevermea.com
