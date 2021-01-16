@@ -10,7 +10,7 @@
     <a href="https://opensource.org">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/marcoramilli/PhishingKitTracker">
+  <img alt="GitHub commit activity" src="https://badges.pufler.dev/updated/marcoramilli/PhishingKitTracker">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Marco_Ramilli?style=social">
 </p>
 
