@@ -147,6 +147,7 @@
       2 covid19.hotelembajada.com
       2 count.secured.emailsrvr.villacorfu.com.au
       2 correctordeortografia.com
+      2 compilacaonerd.com
       2 cheatsbox.net
       2 chase.com.clarkandwilkins.com
       2 caringmamma.com
@@ -747,7 +748,6 @@
       1 cooldemoz.com
       1 coolcoolers.com.au
       1 computechnology.com.ve
-      1 compilacaonerd.com
       1 comercialdym.com.gt
       1 com-bmnfkppxaa.kofc3035.org
       1 colchonesymas.com

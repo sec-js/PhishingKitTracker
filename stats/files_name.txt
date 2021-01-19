@@ -21,6 +21,7 @@
       2 antibots.zip
       2 admin.zip
       2 OLUCHAS3.zip
+      2 FNB-FICA-Registration-FNB-Online-Banking-Paid.zip
       2 Cox
       2 Bankofamerica.zip
       2 AFile.zip
@@ -977,7 +978,6 @@
       1 Fac.zip
       1 FUD.office.zip
       1 FR12f18231.zip
-      1 FNB-FICA-Registration-FNB-Online-Banking-Paid.zip
       1 FFV1-Titans(DBS99).zip
       1 FBlogic.zip
       1 F.zip
