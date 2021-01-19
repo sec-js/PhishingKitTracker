@@ -1,6 +1,7 @@
       3 raboNew.zip
       3 osol modiriyat.rar
       3 nyali.zip
+      3 FNB-FICA-Registration-FNB-Online-Banking-Paid.zip
       2 syfy
       2 sirosa
       2 satander-mx.chemsbury.net.zip
@@ -21,7 +22,6 @@
       2 antibots.zip
       2 admin.zip
       2 OLUCHAS3.zip
-      2 FNB-FICA-Registration-FNB-Online-Banking-Paid.zip
       2 Cox
       2 Bankofamerica.zip
       2 AFile.zip
