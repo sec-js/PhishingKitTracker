@@ -628,6 +628,7 @@
       1 deposit.zip
       1 dentro da pasta tem itau de brinde.zip
       1 de.zip
+      1 daum (1).zip
       1 dashboard.zip
       1 dashboard-old.zip
       1 dahl.zip
@@ -845,6 +846,8 @@
       1 SIREN SCRIM.zip
       1 SEANINVOICE-V.9.8.zip
       1 SANTACTUAL208.zip
+      1 RetailInternetLogin2.zip
+      1 Retail.zip
       1 RespaldoSitioJulio.zip
       1 Rak.zip
       1 Rak.zip
