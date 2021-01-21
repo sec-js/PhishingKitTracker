@@ -449,6 +449,7 @@
       1 login.zip
       1 login.zip
       1 login.alibaba-com.zip
+      1 lloyds.zip
       1 lloyds-updated.zip
       1 linshi02.zip
       1 linkedinn (1).zip
@@ -869,6 +870,7 @@
       1 RELEANS.zip
       1 PostBank.zip
       1 Paypal Original1.zip
+      1 PayPalL.zip
       1 PayPal.zip
       1 PayPal.zip
       1 PayPal
@@ -1060,6 +1062,7 @@
       1 BE.zip
       1 Auto
       1 Archive.zip
+      1 Apple.zip
       1 Apple-confrim.zip
       1 Ap.zip
       1 AmazonKepalaBapakKau.zip
