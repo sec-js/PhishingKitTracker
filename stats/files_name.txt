@@ -700,6 +700,7 @@
       1 htaccess.zip
       1 hspanelfinal.zip
       1 HSBC.zip
+      1 hsbc.zip
       1 hotmail (2).zip
       1 Hotmail 2020.zip
       1 hosting-billing.zip
