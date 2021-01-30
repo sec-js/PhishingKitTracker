@@ -129,6 +129,7 @@
       1 wellssecurity.zip
       1 wellsf.zip
       1 WellsFargo.zip
+      1 WellsFargo.zip
       1 WellsFargoFinals.zip
       1 well-known.zip
       1 well-known.zip
