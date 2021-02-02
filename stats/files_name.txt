@@ -52,6 +52,7 @@
       1 YAHOO-2018.zip
       1 xwantedAnti[@Terminator1212].zip
       1 xo.zip
+      1 xnet.zip
       1 xmlrpc.php.gz
       1 xfact.zip
       1 xenforo
@@ -872,6 +873,7 @@
       1 distribillares.com.mx.zip
       1 dist-php-mail (1).zip
       1 DilloRushGame.zip
+      1 dh.nova.scotia.zip
       1 DHL.zip
       1 DHL page (1).zip
       1 DHL new.zip
