@@ -94,6 +94,7 @@
       1 wp-admin.zip
       1 wp-activate.php.gz
       1 wp3.zip
+      1 workhard.zip
       1 Work-Hard-V5(1).zip
       1 wordpress.zip
       1 wordpress.zip
