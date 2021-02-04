@@ -443,6 +443,7 @@
       1 online.bankofguam.com.zip
       1 online.bankofguam.com.zip
       1 onlineaqs.wellsfargo.us.zip
+      1 online absa-2020-New (1).zip
       1 one.zip
       1 onedrv.zip
       1 OneDrive.zip
@@ -750,6 +751,7 @@
       1 gni.zip
       1 globlinkdelivery.com.zip
       1 GlobalSources.zip
+      1 globalsourcescn.zip
       1 github (2).zip
       1 giftrakhi.zip
       1 gf.zip
