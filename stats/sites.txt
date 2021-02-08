@@ -129,6 +129,7 @@
       2 online-securemorgan-verify.com
       2 oluwasanmi.com
       2 norreply.paypal.jajaleen.com
+      2 myeeplan.com
       2 my1schwb23id2.ml
       2 mno.naomigoff.com
       2 metrobankonline-retail-portal-internet.duckdns.org
@@ -627,7 +628,6 @@
       1 myverificationlogin.myvnc.com
       1 my-sharepoint-center.com
       1 myfinancialpromisedland.com
-      1 myeeplan.com
       1 my-appleid-sec.440musichall.com
       1 myacc-safe.webredirect.org
       1 my3-info-change.com
