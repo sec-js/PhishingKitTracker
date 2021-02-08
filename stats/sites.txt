@@ -35,6 +35,7 @@
       3 ps.unublitar.ac.id
       3 outofthebaseline.info
       3 nurtztzltsurivu.com
+      3 myeeplan.com
       3 mtq.riau.go.id
       3 li.humanbiomics-project.org
       3 konark.tech
@@ -129,7 +130,6 @@
       2 online-securemorgan-verify.com
       2 oluwasanmi.com
       2 norreply.paypal.jajaleen.com
-      2 myeeplan.com
       2 my1schwb23id2.ml
       2 mno.naomigoff.com
       2 metrobankonline-retail-portal-internet.duckdns.org
