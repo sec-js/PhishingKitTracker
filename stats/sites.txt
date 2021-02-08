@@ -17,6 +17,7 @@
       4 wrsa.adv.br
       4 usisandbox.com
       4 paypal-account.my.id
+      4 myeeplan.com
       4 jediweb.com.br
       4 hostingnetweb.com
       4 extremecompute.io
@@ -35,7 +36,6 @@
       3 ps.unublitar.ac.id
       3 outofthebaseline.info
       3 nurtztzltsurivu.com
-      3 myeeplan.com
       3 mtq.riau.go.id
       3 li.humanbiomics-project.org
       3 konark.tech
