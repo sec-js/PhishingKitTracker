@@ -158,6 +158,7 @@
       1 V!RUS.zip
       1 vrque2i.zip
       1 vo.zip
+      1 voice.zip
       1 voicemod.zip
       1 version finale (1) (2).zip
       1 Verify.zip
@@ -241,6 +242,7 @@
       1 staticsite.zip
       1 stand.zip
       1 ssl(1).zip
+      1 sshad4.zip
       1 sp.zip
       1 spread.zip
       1 Spox
