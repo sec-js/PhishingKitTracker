@@ -200,6 +200,7 @@
       1 zartoshti.org
       1 yours-71.tk
       1 yhpark.com
+      1 yasukouchi.jp
       1 xrzvr.com
       1 xn--mcrosoftonline-5fc.com
       1 xlondrive.net
@@ -992,6 +993,7 @@
       1 45.141.84.182
       1 45.13.58.149
       1 40.125.65.33
+      1 3andceon3.duckdns.org
       1 35.247.195.180
       1 35.204.47.254
       1 34.95.4.206
