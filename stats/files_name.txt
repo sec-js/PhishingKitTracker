@@ -20,6 +20,7 @@
       2 dasefaz.zip
       2 Cox
       2 clef.zip
+      2 chase-login.zip
       2 Bankofamerica.zip
       2 asiansoftwares
       2 apple.zip
@@ -659,6 +660,7 @@
       1 login.alibaba-com.zip
       1 lloyds.zip
       1 lloyds.zip
+      1 lloyds.zip
       1 lloyds-updated.zip
       1 lloyds-updated (3).zip
       1 Lloyds Live.zip
@@ -1041,7 +1043,6 @@
       1 chases.zip
       1 chasenew.zip
       1 ChaseNewAnd-Letter-ToTest-Posted.zip
-      1 chase-login.zip
       1 chase-login.zip
       1 chase-login.zip
       1 chase-login.zip

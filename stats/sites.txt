@@ -93,6 +93,7 @@
       2 webmaxtechno.com
       2 web.daaduaneiros.com.br
       2 vreaccxe-norman.cf
+      2 voterministry.com
       2 vc-tech.org
       2 vasltoy-71.tk
       2 usbarsandrestaurants.com
@@ -304,6 +305,7 @@
       1 www.onedrive.com.secure.login-wbcci.org.rexthrone.com
       1 www.office365web.vetconnect.com.ng
       1 www.o2-updateauth-billing.com
+      1 www.new-via-auth.com
       1 www.netflixuk.globalforus.com
       1 www.netflix-support-team.com
       1 www.netflixquaretena.com
@@ -478,7 +480,6 @@
       1 wallet.xprscoin.com
       1 wallet-atomic.com
       1 vstsolution.com.br
-      1 voterministry.com
       1 vootseries.gq
       1 vmi512741.contaboserver.net
       1 vince-breaio.ml
