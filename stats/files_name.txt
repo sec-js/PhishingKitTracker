@@ -318,6 +318,7 @@
       1 SecureMyBooking
       1 secure mine.zip
       1 secured.zip
+      1 secured.zip
       1 secure.bankofamerica.com.zip
       1 secure.bankamerica.com.zip
       1 secure (1).zip
@@ -788,6 +789,7 @@
       1 Impots.zip
       1 Impots.zip
       1 important.msg.zip
+      1 images.zip
       1 images.zip
       1 ikonictrade.zip
       1 ii.zip
