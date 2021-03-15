@@ -181,6 +181,7 @@
       1 voice.zip
       1 voicemod.zip
       1 villas.zip
+      1 verx.zip
       1 version finale (1) (2).zip
       1 Verify.zip
       1 verified.zip
