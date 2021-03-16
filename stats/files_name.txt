@@ -66,6 +66,7 @@
       1 xmlrpc.php.gz
       1 xfact.zip
       1 xenforo
+      1 xc.zip
       1 XBALTI V5.zip
       1 xax7k4mlp.zip
       1 xAthena-v4.zip
