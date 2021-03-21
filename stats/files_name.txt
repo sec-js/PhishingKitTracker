@@ -747,6 +747,7 @@
       1 license.txt.gz
       1 lfam-portal-test.zip
       1 lawyer.zip
+      1 launcher.zip
       1 latest.tar
       1 last.zip
       1 laravel.zip
