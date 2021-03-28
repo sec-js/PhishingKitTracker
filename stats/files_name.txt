@@ -312,6 +312,7 @@
       1 smart-school-v5.1.0.zip
       1 smartend.zip
       1 SM
+      1 slsp-telegram.zip
       1 sleepstyle.in.zip
       1 sk.zip
       1 skymesh.net.au.zip
