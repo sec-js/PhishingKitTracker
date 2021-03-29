@@ -8,6 +8,7 @@
       2 rest.zip
       2 raboNew.zip
       2 perfex-2.7.1.zip
+      2 paypal.zip
       2 OLUCHAS3.zip
       2 netflix.zip
       2 moodle-latest-39 (1).zip
@@ -486,7 +487,6 @@
       1 PC (3).zip
       1 PayPal.zip
       1 PayPal.zip
-      1 paypal.zip
       1 paypal scam us.zip
       1 PayPal Page J2CHOPS.zip
       1 Paypal Original1.zip
