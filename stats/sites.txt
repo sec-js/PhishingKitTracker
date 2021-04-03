@@ -98,6 +98,7 @@
       2 www.cliente.centroderesoluciones.cf
       2 www.china-educations.com
       2 www.blockchainasic.com
+      2 www.bhojrajneupane.com.np
       2 www.banquet.tgcresort.com
       2 www.academia.edubo.org
       2 wenaxe.com
@@ -942,6 +943,7 @@
       1 finkelblogger.com
       1 fifocapitalservices.com
       1 fibercheck.xyz
+      1 fftmtt.xyz
       1 feed-life.com
       1 federicg.ga
       1 fcisumerpur.com
