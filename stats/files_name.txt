@@ -260,6 +260,7 @@
       1 test.zip
       1 test.zip
       1 test.zip
+      1 test.zip
       1 teste-espaco.zip
       1 test0.zip
       1 tesco.zip
@@ -1454,6 +1455,7 @@
       1 amazoniyh.zip
       1 AMAZON-FREAKZBROTHERS.zip
       1 AMAZON-FREAKZBROTHERS.zip
+      1 Amazon
       1 amaz (1).zip
       1 amaz (1).zip
       1 amaz (1).zip
