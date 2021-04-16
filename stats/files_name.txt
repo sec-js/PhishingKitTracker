@@ -100,6 +100,7 @@
       1 wp-links-opml.zip
       1 wp-links-opml.php.gz
       1 wp-lib.zip
+      1 wpdrive1.zip
       1 wpcx.zip
       1 wp-cron.php.gz
       1 wp-content.zip
@@ -352,6 +353,7 @@
       1 seject.zip
       1 seguridadhb.zip
       1 Security
+      1 Secure.zip
       1 secure.zip
       1 secure.zip
       1 SecureMyBooking
