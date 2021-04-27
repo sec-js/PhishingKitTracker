@@ -509,6 +509,7 @@
       1 www.chasestersa.datacenter4.com
       1 www.chase-secure-login.com
       1 www.chaseit.sieclecapital.com
+      1 www.chaishaica.com
       1 www.certificato.apk.intesa.sinapiglobal.co.za
       1 www.cash-login-445.xyz
       1 www.capitalinvbank.com
@@ -1145,6 +1146,7 @@
       1 chat.whatapps.ff-999.ml
       1 chasebanksys.hopto.org
       1 centurypaints.co.ke
+      1 celextechnology.com.au
       1 careerschools.info
       1 capitalprogrammanagtllc.is-a-financialadvisor.com
       1 capabledream.com
