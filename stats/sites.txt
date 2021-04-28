@@ -26,6 +26,7 @@
       4 vivsoftair.com
       4 usisandbox.com
       4 paypal-account.my.id
+      4 myvoicemail.ksns-llc.xyz
       4 myeeplan.com
       4 jediweb.com.br
       4 hostingnetweb.com
@@ -693,6 +694,7 @@
       1 securemail.rkhobraa.com
       1 secure.jigthtmil.xyz
       1 secure.ddnsking.com
+      1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
       1 secure4neftlix8.ddns.net
       1 secure3a-authusers.dynamic-dns.net
       1 secure0-netflix.ddns.net
@@ -998,6 +1000,7 @@
       1 greationnmsans.com
       1 graphicommunication.com
       1 gouv-impot.kitchenremodelingspring.com
+      1 google.mexweb.com.mx
       1 goodtimesdjservice.com
       1 gomsinff.com
       1 globemblematicv.com
