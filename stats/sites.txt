@@ -54,6 +54,7 @@
       3 outofthebaseline.info
       3 nurtztzltsurivu.com
       3 mtq.riau.go.id
+      3 mldy.tk
       3 li.humanbiomics-project.org
       3 leboncoin-paiement-produit.com
       3 konark.tech
@@ -752,6 +753,7 @@
       1 reachthecarrot.top
       1 rbc-eonline-01.ml
       1 raindrainfall.tk
+      1 quickbitlabs.com
       1 quantusmarketing.com
       1 pvpgame.ga
       1 protransfers.org
@@ -1285,6 +1287,7 @@
       1 aide.dehoyymananas.com
       1 ahorainc.org
       1 agent-casar-update.com
+      1 ageivagain.gq
       1 aflbd.net
       1 afa.fnimes.com.my
       1 aeromiic.com
