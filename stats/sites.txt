@@ -156,6 +156,7 @@
       2 securitycheck-ppayl-secure.com
       2 secure.facebook.com5198349328954.com
       2 secured-box.icu
+      2 secure1kverify.duckdns.org
       2 rtttravel.co
       2 rsbconstruction.net
       2 rjhumancare.com
@@ -727,7 +728,6 @@
       1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
       1 secure4neftlix8.ddns.net
       1 secure3a-authusers.dynamic-dns.net
-      1 secure1kverify.duckdns.org
       1 secure0-netflix.ddns.net
       1 secure07h-chase.com
       1 secure02admin-chase.com
