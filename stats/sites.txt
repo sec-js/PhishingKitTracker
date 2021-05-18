@@ -727,6 +727,7 @@
       1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
       1 secure4neftlix8.ddns.net
       1 secure3a-authusers.dynamic-dns.net
+      1 secure1kverify.duckdns.org
       1 secure0-netflix.ddns.net
       1 secure07h-chase.com
       1 secure02admin-chase.com
@@ -741,6 +742,7 @@
       1 salilpanvalkar.com
       1 sakazoudemanagessl.bounceme.net
       1 sahabatsports.xyz
+      1 safeguard.serveirc.com
       1 safebrwsing.com
       1 rsuassalamgml.com
       1 rsforums.xyz
