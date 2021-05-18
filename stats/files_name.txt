@@ -210,6 +210,7 @@
       1 voice.zip
       1 voicemod.zip
       1 voiceee-update2020.zip
+      1 virus.zip
       1 villas.zip
       1 VIETNAM.zip
       1 verx.zip
@@ -538,6 +539,7 @@
       1 php-fcm.zip
       1 phpBB-3.3.3.zip
       1 phishing-script FB by PROTIK.zip
+      1 Pharma.zip
       1 pful3zwhw.tar
       1 peru-api.zip
       1 perfex
