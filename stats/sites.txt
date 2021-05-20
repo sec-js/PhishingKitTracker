@@ -717,6 +717,7 @@
       1 sfird.xyz
       1 serviceoutade.groutmastersatlanta.com
       1 service.mymailexp.com
+      1 service.fedex.livraison.express.familiasemilla.net
       1 service-account.avenueeaux.com
       1 senseicloud.ga
       1 sellyoursemen.com
@@ -1100,6 +1101,7 @@
       1 exitoalfaomega.co
       1 exhibitionrecruit.com
       1 events.blissona.com
+      1 event-claim-ff68.duckdns.org
       1 eucriomeumundo.com.br
       1 eua30s.com
       1 etoroinvestment.org
