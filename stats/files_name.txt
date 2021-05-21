@@ -235,6 +235,7 @@
       1 ute.zip
       1 ut 2.zip
       1 usps no pin.zip
+      1 usps
       1 US.HSBC.zip
       1 US.HSBC.zip
       1 USA.zip
