@@ -1335,6 +1335,7 @@
       1 comsx.zip
       1 compro-master.zip
       1 communications (10).zip
+      1 comerciosp.tar
       1 CollectBloodRavenV1.zip
       1 cole.zip
       1 coinbase.zip
@@ -1420,6 +1421,7 @@
       1 CastHelloVideo-chrome-master.zip
       1 cash.zip
       1 CashApp.zip
+      1 carpetas
       1 capturas.zip
       1 capturas2.zip
       1 captchav4.zip
