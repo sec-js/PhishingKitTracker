@@ -817,6 +817,7 @@
       1 micro.zip
       1 microsoft.zip
       1 Microsoft Website.zip
+      1 microsoftss.zip
       1 microsoftonline.zip
       1 microsoftonline.secured.zip
       1 MICROSOFTONLINE365 (2).zip
@@ -1352,6 +1353,7 @@
       1 client.zip
       1 click.zip
       1 clef op.zip
+      1 clean-office365-true-login.zip
       1 cla.zip
       1 CI.zip
       1 ciso.zip
