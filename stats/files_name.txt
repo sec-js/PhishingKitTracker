@@ -318,7 +318,9 @@
       1 s.zip
       1 s.zip
       1 s.zip
+      1 swiss.zip
       1 swisspostgerm.zip
+      1 swiss.poste.zip
       1 swiss (1).zip
       1 swgcregeb.rar
       1 sweden.zip
@@ -1365,6 +1367,7 @@
       1 confirm ppl scam.zip
       1 config.zip
       1 comsx.zip
+      1 comsxi.zip
       1 compro-master.zip
       1 communications (10).zip
       1 comerciosp.tar
@@ -1396,6 +1399,7 @@
       1 ciso.zip
       1 ciaar.com.mx.zip
       1 ci
+      1 ch.zip
       1 chronopost.zip
       1 chm.zip
       1 chm.zip
