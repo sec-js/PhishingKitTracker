@@ -56,6 +56,8 @@
       2 connectingpuducherry.com.zip
       2 connectingindia.info.zip
       2 connectinghyderabad.com.zip
+      2 connectingchennai.com.zip
+      2 connectingbangaluru.com.zip
       2 connectingbangalore.com.zip
       2 connectingandhrapradesh.com.zip
       2 clef.zip
@@ -71,6 +73,7 @@
       2 allindiapincode.com.zip
       2 AFile.zip
       2 admin.zip
+      2 abicluster.com.zip
       1 好的.zip
       1 z!.zip
       1 zubi.zip
@@ -1365,8 +1368,6 @@
       1 controller.zip
       1 contable.zip
       1 connectingcoimbatore.com.zip
-      1 connectingchennai.com.zip
-      1 connectingbangaluru.com.zip
       1 confirm.zip
       1 confirm.zip
       1 confirm ppl scam.zip
@@ -1718,7 +1719,6 @@
       1 ABOUX.zip
       1 About.zip
       1 abidkhan.zip
-      1 abicluster.com.zip
       1 aaac(1).zip
       1 A1.zip
       1 9.zip
