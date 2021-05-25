@@ -415,6 +415,7 @@
       1 sis.zip
       1 SIREN SCRIM.zip
       1 simtebukptr.zip
+      1 simplescript.zip
       1 Simple POS v4.0.29 Preinstalled.zip
       1 simpleinvoices.zip
       1 Signin.zip
