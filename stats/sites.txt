@@ -944,6 +944,7 @@
       1 mail.tcpermaculture.com
       1 mail.paypal-recovery-support.gleeze.com
       1 mail.market-login-redirect.duckdns.org
+      1 mail.hdsystems.in
       1 mail.gruporedinm.com.ar
       1 mail.goldenappletech.com
       1 mahebrasil.com.br
@@ -994,6 +995,7 @@
       1 katiegarrettrealtor.com
       1 karneyfamily.com
       1 kangenukonturmericsupplements.org
+      1 justritewear.xyz
       1 justinschlaefli.com
       1 julessbruns.ga
       1 joshtobye.com
