@@ -65,6 +65,7 @@
       2 connectingandhrapradesh.com.zip
       2 clef.zip
       2 chase-login.zip
+      2 chase000.zip
       2 cgi-bin.zip
       2 card.connectingchennai.com.zip
       2 cai.zip
@@ -1506,7 +1507,6 @@
       1 chase 2019.zip
       1 chase2018.zip
       1 chase1.zip
-      1 chase000.zip
       1 CHASE
       1 CHASE
       1 Chase
