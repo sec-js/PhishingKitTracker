@@ -763,6 +763,7 @@
       1 office365 2018 (1).zip
       1 Office365
       1 office3365.zip
+      1 office (2).zip
       1 Office2020.zip
       1 Office2019.zip
       1 office2019.zip
@@ -1110,6 +1111,7 @@
       1 Hotmail 2020.zip
       1 hosting-billing.zip
       1 horde-zimbra-outlook-linkedin.zip
+      1 home.zip
       1 home.zip
       1 home.zip
       1 home (1).zip
