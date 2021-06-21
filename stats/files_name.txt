@@ -595,6 +595,7 @@
       1 PostNL.zip
       1 POSTE.zip
       1 PostBank.zip
+      1 postale.zip
       1 postalenew.zip
       1 postale
       1 pos
