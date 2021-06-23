@@ -247,6 +247,7 @@
       1 waybill.zip
       1 waring.zip
       1 wallet.xenioscoin.bonus-erc20-token.info.zip
+      1 wallet con.zip
       1 wagroups-ultimate-pro
       1 wab.zip
       1 WA
