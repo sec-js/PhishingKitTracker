@@ -934,6 +934,7 @@
       1 MailQuotaEng.zip
       1 Mail Minz.zip
       1 mail.login.com.zip
+      1 mail.diba.cat.zip
       1 mailbox.zip
       1 magone.zip
       1 Maga v4.7.zip
