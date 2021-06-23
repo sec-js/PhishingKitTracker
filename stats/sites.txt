@@ -184,6 +184,7 @@
       2 p.dr-yasernaji.com
       2 paypal-login-us-38473.com
       2 paypal-helping-11.colombianshaper.com
+      2 pappattila.hu
       2 online-securemorgan-verify.com
       2 ondrivefiles.co
       2 oluwasanmi.com
@@ -879,7 +880,6 @@
       1 particulares-ban-k-ia.com
       1 parkticket.tk
       1 paraglidingvn.com
-      1 pappattila.hu
       1 paddlepedal.com
       1 ozdomb.elitemarketing.hu
       1 outshineresidences.icu
