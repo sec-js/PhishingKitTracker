@@ -286,6 +286,7 @@
       1 uvdesk-community-current-stable.zip
       1 ute.zip
       1 ut 2.zip
+      1 USPS.zip
       1 usps no pin.zip
       1 usps
       1 usps
