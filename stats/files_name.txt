@@ -79,6 +79,7 @@
       2 antibots.zip
       2 amaz.zip
       2 amaz.zip
+      2 Amazon.zip
       2 ALTA.zip
       2 allindiapincode.com.zip
       2 AFile.zip
@@ -557,6 +558,7 @@
       1 r23.tar
       1 qwc634.tar
       1 quilt.zip
+      1 QuickQR-v6.0.1-Saas-Contactless-Restaurant-QR-Menu-Maker-Download.zip
       1 quak.zip
       1 qtype
       1 qs8xmqh.zip
@@ -1756,7 +1758,6 @@
       1 amaz.zip
       1 amaz.zip
       1 amaz.zip
-      1 Amazon.zip
       1 Amazon.zip
       1 Amazon.zip
       1 Amazon.zip
