@@ -773,6 +773,7 @@
       1 Office-OnlyBusiness-Fixed.zip
       1 Office-OnlyBusiness-Fixed.zip
       1 officelogo.zip
+      1 officeLast.zip
       1 officekml.zip
       1 officekml.zip
       1 officefiles.zip
