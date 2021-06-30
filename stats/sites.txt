@@ -676,6 +676,7 @@
       1 wallet.xprscoin.com
       1 walletconnection.authenticweb.ml
       1 wallet-atomic.com
+      1 vyc.com.pt
       1 vstsolution.com.br
       1 vrtgolabs.top
       1 vootseries.gq
@@ -792,6 +793,7 @@
       1 securemail.taxiserviceinhimachal.com
       1 securemail.rkhobraa.com
       1 secure.jigthtmil.xyz
+      1 secure-digitally-fide-lity-userverification.ns01.info
       1 secure.ddnsking.com
       1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
       1 secure4neftlix8.ddns.net
@@ -843,6 +845,7 @@
       1 realtor-realestate-listing-79923461-fb.com
       1 realitysimilar.com
       1 realdiamondlover.com
+      1 readinginlipstick.com
       1 reachthecarrot.top
       1 rbc-eonline-01.ml
       1 rapicreditsv.com
