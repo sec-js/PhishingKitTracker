@@ -1015,6 +1015,7 @@
       1 mail.tcpermaculture.com
       1 mail.securebanksofamerica.com
       1 mail.paypal-recovery-support.gleeze.com
+      1 mail.mcclas.co.za
       1 mail.market-login-redirect.duckdns.org
       1 mail.hdsystems.in
       1 mail.harristone.com
@@ -1074,6 +1075,7 @@
       1 kenpaullone.com
       1 kayayezim.com
       1 katiegarrettrealtor.com
+      1 kassithronn.com
       1 karneyfamily.com
       1 kangenukonturmericsupplements.org
       1 justritewear.xyz
@@ -1175,6 +1177,7 @@
       1 gabedias.com
       1 fullconcept.adminsistemas.com
       1 fudenterprises.com
+      1 frankstrikebreaker.com
       1 fotoboothdenver.com
       1 followers-instagram.online
       1 flippinhs.cf
@@ -1463,6 +1466,7 @@
       1 accounty098-veri5y0.ddns.net
       1 accounts.paxful.com.bitsope.com
       1 accounts-netflixnl.com
+      1 account.signin.totally-tubular.net
       1 accounts.google.com.xn--ab-edu-vc8b.net
       1 accountrust.ddns.net
       1 accesso.portale.clienti.eml.com.co
