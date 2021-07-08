@@ -1033,6 +1033,7 @@
       1 launcher.zip
       1 LatestVersion.zip
       1 latest.tar
+      1 latest-pt
       1 last.zip
       1 laravel.zip
       1 laradesk-1.0.0.zip
