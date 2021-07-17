@@ -7,6 +7,7 @@
       3 nyali.zip
       3 index1.zip
       3 FNB-FICA-Registration-FNB-Online-Banking-Paid.zip
+      3 amaz.zip
       2 xploreinfotech.com.zip
       2 xploreinformationtechnology.com.zip
       2 wucc.zip
@@ -78,7 +79,6 @@
       2 apple.zip
       2 apolloherbals.co.in.zip
       2 antibots.zip
-      2 amaz.zip
       2 amaz.zip
       2 Amazon.zip
       2 ALTA.zip
@@ -302,6 +302,7 @@
       1 usps
       1 usps
       1 usps
+      1 usps
       1 US.HSBC.zip
       1 US.HSBC.zip
       1 usbank.com.zip
@@ -426,6 +427,7 @@
       1 Spoxc.zip
       1 Spox
       1 SPIN SEASON 16 V5.zip
+      1 spiin.zip
       1 spider.zip
       1 spider (1).zip
       1 spar.zip
@@ -468,6 +470,7 @@
       1 shellphish-master.zip
       1 Shaw.zip
       1 share.zip
+      1 sharepoint.zip
       1 sharepointNORATTING.zip
       1 sharepoint (1).zip
       1 seylzyprg.tar
@@ -1361,6 +1364,7 @@
       1 emiratespost.zip
       1 Em-Dinlogs.zip
       1 Email.zip
+      1 emailzimbra.zip
       1 emailadmin.zip
       1 elk.zip
       1 elkcl75tz.tar
@@ -1444,6 +1448,7 @@
       1 DHL BY [CRAX.PRO].zip
       1 Dhl-Auto.zip
       1 DHL1.zip
+      1 dhl1.zip
       1 DHL
       1 dhl
       1 DhFinalMobil.zip
@@ -1622,6 +1627,8 @@
       1 capturas.zip
       1 capturas2.zip
       1 captchav4.zip
+      1 capitalone.zip
+      1 capitalone.zip
       1 capitalone.zip
       1 capitalinvbank.com.zip
       1 cannabis.zip
@@ -1824,6 +1831,7 @@
       1 amprojanitorial.zip
       1 aMember.zip
       1 Ameli-XBALTI.zip
+      1 amaz.zip
       1 amaz.zip
       1 amaz.zip
       1 amaz.zip
