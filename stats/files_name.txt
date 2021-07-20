@@ -586,6 +586,7 @@
       1 radar hacker.zip
       1 r23.tar
       1 qwc634.tar
+      1 quip
       1 quilt.zip
       1 QuickQR-v6.0.1-Saas-Contactless-Restaurant-QR-Menu-Maker-Download.zip
       1 quak.zip
@@ -1618,6 +1619,7 @@
       1 chase
       1 chapeaucmbn.zip
       1 CHANN 3JENIS GG2K21.zip
+      1 cgi-bin.zip
       1 cgi-bin.zip
       1 cgi-bin.zip
       1 cgi-bin.zip
