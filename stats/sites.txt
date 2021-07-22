@@ -1002,6 +1002,7 @@
       1 neelkanthazm.com
       1 natwest.personal-secured.com
       1 napleswebagency.com
+      1 nab-log.com
       1 myverificationlogin.myvnc.com
       1 my-sharepoint-center.com
       1 my-sharepoint-access.fusionenterprises.ca
@@ -1241,6 +1242,7 @@
       1 firesaw.com
       1 firas.alifares.org
       1 finkelblogger.com
+      1 findmybase.com
       1 fifocapitalservices.com
       1 fibercheck.xyz
       1 fftmtt.xyz
