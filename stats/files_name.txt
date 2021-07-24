@@ -49,6 +49,7 @@
       2 greenlineslogistics.com.zip
       2 gfgf.zip
       2 GAME DIRECT.zip
+      2 free-mobile.fr.zip
       2 faith.zip
       2 ensenergys.com.zip
       2 emt.zip
@@ -70,6 +71,7 @@
       2 clef.zip
       2 chase-login.zip
       2 chase000.zip
+      2 cgi-bin.zip
       2 cgi-bin.zip
       2 card.connectingchennai.com.zip
       2 cai.zip
@@ -234,6 +236,7 @@
       1 wellsfargo.zip
       1 Wells Fargo Spox Re-Loaded By Groot.zip
       1 wellsfargoo.zip
+      1 WellsFargoFinal.zip
       1 WellsFargoFinals.zip
       1 wells
       1 well-known.zip
@@ -1289,7 +1292,6 @@
       1 frontend
       1 frigidaire20170222.zip
       1 frigidaire201702223.zip
-      1 free-mobile.fr.zip
       1 FR12f18231.zip
       1 foxtrot.zip
       1 FortyOneAccountApiPHP.zip
@@ -1639,7 +1641,6 @@
       1 cgi-bin.zip
       1 cgi-bin.zip
       1 cgi-bin.zip
-      1 cgi-bin.zip
       1 CDLE login.zip
       1 cccchaseverifications.zip
       1 CC
@@ -1661,6 +1662,7 @@
       1 call me or do not edit until 12-11-18
       1 cai.zip
       1 cagrıı edevlet.zip
+      1 C-Agricole.zip
       1 C-Agricole.zip
       1 cad.zip
       1 CA 3.0.zip
