@@ -24,6 +24,7 @@
       5 bluishknare.com
       5 blakebabsonfirm.com
       5 95.85.43.186
+      4 www.skydigitalwebhost.xyz
       4 www.digitalservicepoints.com
       4 wrsa.adv.br
       4 vivsoftair.com
@@ -44,6 +45,7 @@
       4 docshareportal74383.xyz
       4 bdminfotech.in
       4 autoshine.ie
+      4 173.254.238.114
       3 www.trskl.com.br
       3 www.support.chapclick.ir
       3 www.superzaia.com.br
@@ -108,7 +110,6 @@
       2 www.usisandbox.com
       2 www.travel.eduvertpak.com
       2 www.teamamaz.com
-      2 www.skydigitalwebhost.xyz
       2 www.scotiambank-cl.ga
       2 www.rebarmodernfood.com
       2 www.rbcsecure.com
@@ -283,7 +284,6 @@
       2 203.190.37.133
       2 1.uslocaldirectory.com
       2 180.215.223.168
-      2 173.254.238.114
       2 162.241.125.106
       2 162.241.117.179
       1 zryxazkv7.fastestcdn.net

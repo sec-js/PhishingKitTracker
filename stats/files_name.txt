@@ -1,5 +1,7 @@
       8 desjardins.zip
       4 Netflix (2).zip
+      4 free-mobile.fr.zip
+      4 cgi-bin.zip
       3 usps
       3 raboNew.zip
       3 prestashop
@@ -49,7 +51,6 @@
       2 greenlineslogistics.com.zip
       2 gfgf.zip
       2 GAME DIRECT.zip
-      2 free-mobile.fr.zip
       2 faith.zip
       2 ensenergys.com.zip
       2 emt.zip
@@ -71,7 +72,6 @@
       2 clef.zip
       2 chase-login.zip
       2 chase000.zip
-      2 cgi-bin.zip
       2 cgi-bin.zip
       2 card.connectingchennai.com.zip
       2 cai.zip
