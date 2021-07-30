@@ -14,6 +14,7 @@
       6 mail.neetflix.ga
       6 fuzedev2.com
       6 avatarinnochem123.aanibrothers.in
+      5 www.skydigitalwebhost.xyz
       5 worldwideeducationservice.com
       5 vanillcrd.com
       5 ioabc.wif.com.br
@@ -24,7 +25,7 @@
       5 bluishknare.com
       5 blakebabsonfirm.com
       5 95.85.43.186
-      4 www.skydigitalwebhost.xyz
+      5 173.254.238.114
       4 www.digitalservicepoints.com
       4 wrsa.adv.br
       4 vivsoftair.com
@@ -45,7 +46,6 @@
       4 docshareportal74383.xyz
       4 bdminfotech.in
       4 autoshine.ie
-      4 173.254.238.114
       3 www.trskl.com.br
       3 www.support.chapclick.ir
       3 www.superzaia.com.br
@@ -491,6 +491,7 @@
       1 www.kor-fit.com
       1 www.kontolodon.pw
       1 www.kmcfc.uberco.io
+      1 www.klanordbank.com
       1 www.kkh-group.marathonbank.org
       1 www.kimani.net
       1 www.kbcbelgie.info
