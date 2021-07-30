@@ -10,11 +10,12 @@
       7 invoice.manangraphics.com
       7 chemsbury.net
       7 asiansoftwares.com
+      6 www.skydigitalwebhost.xyz
       6 wafatrust.com.pk
       6 mail.neetflix.ga
       6 fuzedev2.com
       6 avatarinnochem123.aanibrothers.in
-      5 www.skydigitalwebhost.xyz
+      6 173.254.238.114
       5 worldwideeducationservice.com
       5 vanillcrd.com
       5 ioabc.wif.com.br
@@ -25,7 +26,6 @@
       5 bluishknare.com
       5 blakebabsonfirm.com
       5 95.85.43.186
-      5 173.254.238.114
       4 www.digitalservicepoints.com
       4 wrsa.adv.br
       4 vivsoftair.com
@@ -854,6 +854,7 @@
       1 santaideaoficial.com
       1 sanitariospasabe.com
       1 sanarac.com
+      1 samanyan.in
       1 saltco.biz
       1 salilpanvalkar.com
       1 sakazoudemanagessl.bounceme.net
