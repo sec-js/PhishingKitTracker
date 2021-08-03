@@ -1,6 +1,6 @@
       8 desjardins.zip
-      6 free-mobile.fr.zip
-      6 cgi-bin.zip
+      7 free-mobile.fr.zip
+      7 cgi-bin.zip
       4 Netflix (2).zip
       3 usps
       3 raboNew.zip
@@ -45,6 +45,7 @@
       2 kutipanbaru.zip
       2 knab2020.zip
       2 justguesthouse.com.zip
+      2 hjjs.zip
       2 hayavadhanaenterprises.com.zip
       2 guidingindia.com.zip
       2 gruposantander.zip
@@ -1757,6 +1758,7 @@
       1 Barclays
       1 barbausar.zip
       1 ban.zip
+      1 banque.zip
       1 Banks Connect.zip
       1 banks 2.zip
       1 bankofamerica.zip
