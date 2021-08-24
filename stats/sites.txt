@@ -27,6 +27,8 @@
       5 blakebabsonfirm.com
       5 95.85.43.186
       4 www.digitalservicepoints.com
+      4 www.claimrewdsitems.dnset.com
+      4 www.claimitemsbugg.dnset.com
       4 wrsa.adv.br
       4 vivsoftair.com
       4 usisandbox.com
@@ -56,8 +58,6 @@
       3 www.paypal.32008.net
       3 www.jakartascienceacademy.com
       3 www.dashboard-paxful.com
-      3 www.claimrewdsitems.dnset.com
-      3 www.claimitemsbugg.dnset.com
       3 www.allaboutanalysis.com
       3 www.1.bankbux.club
       3 web.clefmedia.com
@@ -471,6 +471,7 @@
       1 www.netflix.eunicethomas.com
       1 www.netflix-support-team.com
       1 www.netflix-mijnaccount.info
+      1 www.nechtrsckt.ga
       1 www.myitem-help.co.uk
       1 www.mydepot-support.com
       1 www.myaccount.bitwaycoinpila.com
