@@ -16,6 +16,8 @@
       6 mail.neetflix.ga
       6 fuzedev2.com
       6 avatarinnochem123.aanibrothers.in
+      5 www.claimrewdsitems.dnset.com
+      5 www.claimitemsbugg.dnset.com
       5 worldwideeducationservice.com
       5 vanillcrd.com
       5 ioabc.wif.com.br
@@ -27,8 +29,6 @@
       5 blakebabsonfirm.com
       5 95.85.43.186
       4 www.digitalservicepoints.com
-      4 www.claimrewdsitems.dnset.com
-      4 www.claimitemsbugg.dnset.com
       4 wrsa.adv.br
       4 vivsoftair.com
       4 usisandbox.com
@@ -761,6 +761,7 @@
       1 uk-barclays.iykf.org
       1 uglygogos.com
       1 uberhelp-centar.com
+      1 tv.fixerror.xyz
       1 tudyfleet.com
       1 tst.marineindust.com
       1 transportationsolutionservices.com
