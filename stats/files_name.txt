@@ -241,6 +241,7 @@
       1 we tranfer new.zip
       1 waybill.zip
       1 waring.zip
+      1 walletconnect.zip
       1 wallet.zip
       1 wallet.xenioscoin.bonus-erc20-token.info.zip
       1 wallet con.zip
