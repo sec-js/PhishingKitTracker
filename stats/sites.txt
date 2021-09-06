@@ -408,6 +408,7 @@
       1 www.secure1store.appleid.appstore.com-manageaccount.us
       1 www.secure08ac.dispute-transaction.cv-alexypaiva.com
       1 www.secure.ubagroupbenin.co
+      1 www.secure.barkofamerica.xyz
       1 www.secure-payee-authorize.com
       1 www.secratafoyt.miami
       1 www.sdfssw3we.com
