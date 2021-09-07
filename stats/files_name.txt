@@ -1548,6 +1548,7 @@
       1 Signage.zip
       1 ShopifyFIX.zip
       1 Shaw.zip
+      1 Sella.zip
       1 Security
       1 SecureMyBooking
       1 Secure.zip
