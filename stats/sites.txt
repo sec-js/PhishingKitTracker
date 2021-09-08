@@ -127,6 +127,7 @@
       2 www.iledger.us
       2 www.icegate.gov.in.hireducation.com
       2 www.firmaelectronicasantander.splendideventsllc.org
+      2 www.erosgustavo.com.br
       2 www.dropboxlogonsigninxpxs.murraybridgespeedwayclub.org.au
       2 www.droiddisplays.com.br
       2 www.development.400startups.com
@@ -573,7 +574,6 @@
       1 www.facebook.apancreations.com
       1 www.evitalservice.com
       1 www.everbestmobile.com
-      1 www.erosgustavo.com.br
       1 www.employee.ringbd.com
       1 www.eloncovid.me
       1 www.ee-help.network
