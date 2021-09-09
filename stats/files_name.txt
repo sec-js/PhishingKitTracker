@@ -1557,6 +1557,7 @@
       1 Simple POS v4.0.29 Preinstalled.zip
       1 Signin.zip
       1 Signage.zip
+      1 Shortner 5.1.1.zip
       1 ShopifyFIX.zip
       1 Shaw.zip
       1 Sella.zip
