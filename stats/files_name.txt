@@ -44,6 +44,7 @@
       2 knab2020.zip
       2 justguesthouse.com.zip
       2 hayavadhanaenterprises.com.zip
+      2 hard
       2 guidingindia.com.zip
       2 gruposantander.zip
       2 greenlineslogistics.com.zip
@@ -974,7 +975,6 @@
       1 help.zip
       1 help.zip
       1 hdfc.zip
-      1 hard
       1 hard
       1 hard
       1 halifax panel.zip

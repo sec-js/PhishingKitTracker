@@ -69,6 +69,7 @@
       3 securedmobileplat.com
       3 recreationrva.com
       3 ps.unublitar.ac.id
+      3 portal.nci.cu.edu.eg
       3 polkastarter.support
       3 pdp.eue.mybluehost.me
       3 outofthebaseline.info
@@ -202,7 +203,6 @@
       2 rackoons.com
       2 qytrga.duckdns.org
       2 probasi.biz
-      2 portal.nci.cu.edu.eg
       2 plungingglacier.com
       2 pharmaintelligentsia.com
       2 paypal-login-us-38473.com
