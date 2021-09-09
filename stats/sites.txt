@@ -719,6 +719,7 @@
       1 www.account.garantbnk.online
       1 www.account-paxful.com
       1 www.abertorelli.educarme.online
+      1 www.8521833452.likabiobrasil.com.br
       1 www.360learninggroup.com
       1 www.34-82-221-21.cprapid.com
       1 www.2020update.breakmygame.com
@@ -957,6 +958,7 @@
       1 postfinceese.xyz
       1 postfinance2secure.com
       1 post-id-726492642.us
+      1 portal.nci.cu.edu.eg
       1 portablekitchen.ng
       1 poloniex.com-login-wallet.skillls.ir
       1 podomorobandung.com
@@ -1236,6 +1238,7 @@
       1 idevs.site
       1 icscardsveiligheid.mydeskserv.com
       1 icloud.com-ios.biz
+      1 icloud-icloud.com
       1 icehockeyrush.com
       1 huntington-co-uk.duckdns.org
       1 humobecape.com
