@@ -202,6 +202,7 @@
       2 rackoons.com
       2 qytrga.duckdns.org
       2 probasi.biz
+      2 portal.nci.cu.edu.eg
       2 plungingglacier.com
       2 pharmaintelligentsia.com
       2 paypal-login-us-38473.com
@@ -958,7 +959,6 @@
       1 postfinceese.xyz
       1 postfinance2secure.com
       1 post-id-726492642.us
-      1 portal.nci.cu.edu.eg
       1 portablekitchen.ng
       1 poloniex.com-login-wallet.skillls.ir
       1 podomorobandung.com
