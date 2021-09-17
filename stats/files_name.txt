@@ -21,6 +21,7 @@
       2 tnwcmi.com.zip
       2 tnmla234.com.zip
       2 theconnectingchina.com.zip
+      2 telif (2).zip
       2 syfy
       2 statuscluster.com.zip
       2 sriraetnasolutions.com.zip
@@ -28,6 +29,7 @@
       2 sirosa
       2 shyamregi.com.zip
       2 shrivaricargo.com.zip
+      2 scotia bank.zip
       2 rest.zip
       2 raboNew.zip
       2 possible.compromise.zip
@@ -398,7 +400,6 @@
       1 templates.zip
       1 template RFS.zip
       1 templateatomic.zip
-      1 telif (2).zip
       1 team.zip
       1 teaconsultancy.com.au.zip
       1 tdc.zip
@@ -534,7 +535,6 @@
       1 SCRIPT for yahoo.zip
       1 scppnew.zip
       1 SC PEMBLOKIRAN FACEBOOK- v2.zip
-      1 scotia bank.zip
       1 scotiabank3.zip
       1 scotiabank2.zip
       1 scotiabank1.zip
@@ -730,6 +730,7 @@
       1 Paypal Original1.zip
       1 PayPalL.zip
       1 paypal-load.zip
+      1 Paypal (1).zip
       1 Paypal (1).zip
       1 paypal (1) (2).zip
       1 PayPal

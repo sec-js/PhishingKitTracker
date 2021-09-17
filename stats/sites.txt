@@ -56,6 +56,7 @@
       3 www.superzaia.com.br
       3 www.royalsclubinternational.com
       3 www.paypal.32008.net
+      3 www.nayyabgroup.com
       3 www.jakartascienceacademy.com
       3 www.dashboard-paxful.com
       3 www.allaboutanalysis.com
@@ -123,7 +124,6 @@
       2 www.rebarmodernfood.com
       2 www.rbcsecure.com
       2 www.paypalverification.gurkhasfood.com.au
-      2 www.nayyabgroup.com
       2 www.myamazon-domainauthent.webredirect.org
       2 www.leoclearing.com
       2 www.irsrefundservice.com
@@ -160,6 +160,7 @@
       2 ubreopliu.cloudns.cl
       2 uber-assist.com
       2 uaojeinjqb43ibiahdb32h503h491gbh89qbd8bhnad.com
+      2 tzsarzst.ga
       2 tracker.co.tz
       2 toongroup.com
       2 tmt-moldova.com
@@ -787,7 +788,6 @@
       1 uk-barclays.iykf.org
       1 uglygogos.com
       1 uberhelp-centar.com
-      1 tzsarzst.ga
       1 tv.fixerror.xyz
       1 tudyfleet.com
       1 tst.marineindust.com
@@ -1171,6 +1171,7 @@
       1 loc4.caixabank.es.gpeticiones.weblogicsession.ay-min.az
       1 lnstagram-copyright-0918365491.tk
       1 livesupportmedia.com
+      1 liveesupportsmedia.com
       1 lithuaniapostcards.icu
       1 linkdify.net
       1 limitreloginpaypal.freedynamicdns.net
