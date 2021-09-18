@@ -232,6 +232,7 @@
       2 jabrealtylc.com
       2 iwantall-71.gq
       2 ipv6.stedelijklyceumexpo.be
+      2 in-insight.com
       2 inetsolv.info
       2 htrfep.online
       2 hocibio.com
@@ -890,6 +891,7 @@
       1 securemail.rkhobraa.com
       1 secure.jigthtmil.xyz
       1 securedwallectrestore.com
+      1 secure-dir5050.duckdns.org
       1 secure-digitally-fide-lity-userverification.ns01.info
       1 secure.ddnsking.com
       1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
@@ -1242,7 +1244,6 @@
       1 instadelivery24.pictopal.com
       1 insidersteam.com.br
       1 innsolutions.co
-      1 in-insight.com
       1 infotechupdate.org
       1 info.bitz.co.za
       1 incodimsa.com

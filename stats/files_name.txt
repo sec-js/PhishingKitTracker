@@ -30,6 +30,7 @@
       2 shyamregi.com.zip
       2 shrivaricargo.com.zip
       2 scotia bank.zip
+      2 scotiabank3.zip
       2 rest.zip
       2 raboNew.zip
       2 possible.compromise.zip
@@ -248,6 +249,7 @@
       1 wellsfargoo.zip
       1 WellsFargoFinal.zip
       1 WellsFargoFinals.zip
+      1 WellsFargo (2).zip
       1 wells
       1 well-known.zip
       1 well-known.zip
@@ -535,7 +537,6 @@
       1 SCRIPT for yahoo.zip
       1 scppnew.zip
       1 SC PEMBLOKIRAN FACEBOOK- v2.zip
-      1 scotiabank3.zip
       1 scotiabank3.zip
       1 scotiabank2.zip
       1 scotiabank1.zip
