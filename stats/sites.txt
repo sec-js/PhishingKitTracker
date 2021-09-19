@@ -355,6 +355,7 @@
       1 www.verificationclientanalytics.xyz
       1 www.verifica-dominio-id.com
       1 www.vakif-online-iade-tr.com
+      1 www.user.dispersalcapital.com
       1 www.user.axelerytrading.com
       1 www.usbank.live
       1 www.update.verification.btconnet.net
@@ -397,6 +398,7 @@
       1 www.special-selections.icu
       1 www.speciallityengineering.com
       1 www.solonetflix.fun
+      1 www.softacc.ir
       1 www.snstechnicalsupport.com
       1 www.smartsecure.online
       1 www.smartfun.me
