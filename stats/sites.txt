@@ -45,6 +45,7 @@
       4 jediweb.com.br
       4 hostingnetweb.com
       4 happyhouru.com
+      4 gambras.tk
       4 fromourheart.org
       4 extremecompute.io
       4 etisalatebills.com
@@ -84,7 +85,6 @@
       3 khushalient.com
       3 kenlawrence.me
       3 initouch.com
-      3 gambras.tk
       3 fwa.ern.mybluehost.me
       3 fnixasia.com
       3 fabricatenetwork.com

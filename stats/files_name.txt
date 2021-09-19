@@ -29,6 +29,7 @@
       2 sirosa
       2 shyamregi.com.zip
       2 shrivaricargo.com.zip
+      2 sharepoint.zip
       2 scotia bank.zip
       2 scotiabank3.zip
       2 rest.zip
@@ -503,7 +504,6 @@
       1 shellphish-master.zip
       1 Shaw.zip
       1 share.zip
-      1 sharepoint.zip
       1 sharepoint.zip
       1 sharepointNORATTING.zip
       1 sharepoint (1).zip
