@@ -190,6 +190,8 @@
       1 wp-ac.zip
       1 wp-activate.php.gz
       1 wp3.zip
+      1 wp-365-2019.zip.zip
+      1 wp-365-2019.zip
       1 workhard.zip
       1 Work-Hard-V5(1).zip
       1 wordpress.zip
@@ -501,6 +503,7 @@
       1 shellphish-master.zip
       1 Shaw.zip
       1 share.zip
+      1 sharepoint.zip
       1 sharepoint.zip
       1 sharepointNORATTING.zip
       1 sharepoint (1).zip
