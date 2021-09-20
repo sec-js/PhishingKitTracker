@@ -23,6 +23,7 @@
       5 ioabc.wif.com.br
       5 highaltitudes.net
       5 gipocreditservices.com
+      5 gambras.tk
       5 dofus.app
       5 chalxe.duckdns.org
       5 bluishknare.com
@@ -45,7 +46,6 @@
       4 jediweb.com.br
       4 hostingnetweb.com
       4 happyhouru.com
-      4 gambras.tk
       4 fromourheart.org
       4 extremecompute.io
       4 etisalatebills.com
@@ -696,6 +696,7 @@
       1 www.banking.click
       1 www.bank1.star9ja.net
       1 www.bahraichupdate.com
+      1 www.ayomide.garmin-deutschland.com
       1 www.avatarinnochem123.aanibrothers.in
       1 www.auth.pilgrimshouse.nl
       1 www.authorise-llyds-gb.com
