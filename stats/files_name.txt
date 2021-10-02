@@ -750,6 +750,7 @@
       1 paypal (1) (2).zip
       1 PayPal
       1 paypal
+      1 paypai.zip
       1 payp31.zip
       1 paymoney
       1 payment.zip
