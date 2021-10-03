@@ -194,10 +194,12 @@
       2 secured-box.icu
       2 secure-bankl0g1nacc.serveirc.com
       2 secure1kverify.duckdns.org
+      2 secure16lverify.duckdns.org
       2 sdbofdbvdflive.com
       2 rtttravel.co
       2 rsbconstruction.net
       2 rjhumancare.com
+      2 rise-brewingco.com
       2 repli-service.cf
       2 reelstico.com
       2 rebeldev.agency
@@ -308,6 +310,7 @@
       1 zryxazkv7.fastestcdn.net
       1 zonassegurapichincha.admengenharia.com
       1 zohard.com
+      1 zlam.myftp.org
       1 zkb-bank.com
       1 zjz.tcp.mybluehost.me
       1 ziprocourierservices.com
@@ -841,8 +844,10 @@
       1 takemore2021.xyz
       1 tabanque-bnparisbas.com
       1 sync-wallet-validation.com
+      1 sweess.serveminecraft.net
       1 susupubg.com
       1 sustainexplode.com
+      1 supreme.bitspringexchange.com
       1 support.yesdev.ca
       1 support.fb.pargonintl.pk
       1 supportdhlanasalmio.xyz
@@ -857,6 +862,7 @@
       1 stock.bijouteriefatine.com
       1 stephaniekingart.top
       1 sso.acu.edu.au.itlib.me
+      1 sslinternet.tk
       1 ssdgatewaysolutions.com
       1 sprtcprtbsns88.link
       1 spreadstyle.top
@@ -915,7 +921,6 @@
       1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
       1 secure4neftlix8.ddns.net
       1 secure3a-authusers.dynamic-dns.net
-      1 secure16lverify.duckdns.org
       1 secure0-netflix.ddns.net
       1 secure07h-chase.com
       1 secure02admin-chase.com
@@ -943,7 +948,6 @@
       1 royalauditores.cl
       1 rostoleum-int.com
       1 rocketmpls.com
-      1 rise-brewingco.com
       1 ripeanimation.com
       1 rileytrnpikesuite.xyz
       1 rideelegance.top
