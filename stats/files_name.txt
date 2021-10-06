@@ -1273,6 +1273,7 @@
       1 index.zip
       1 index.zip
       1 index.zip
+      1 index.php.zip
       1 index.php.gz
       1 index9671.zip
       1 index2.php.zip
