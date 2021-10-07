@@ -127,6 +127,7 @@
       2 www.rbcsecure.com
       2 www.paypalverification.gurkhasfood.com.au
       2 www.myamazon-domainauthent.webredirect.org
+      2 www.mglex.am
       2 www.local-postoffice-schedule.com
       2 www.leoclearing.com
       2 www.irsrefundservice.com
