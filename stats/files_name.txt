@@ -53,6 +53,7 @@
       2 kutipanbaru.zip
       2 knab2020.zip
       2 justguesthouse.com.zip
+      2 Homepage.zip
       2 hayavadhanaenterprises.com.zip
       2 hard
       2 guidingindia.com.zip
@@ -97,6 +98,7 @@
       2 AFile.zip
       2 admin.zip
       2 abicluster.com.zip
+      2 2020chase (1).zip
       2 1.zip
       1 好的.zip
       1 z!.zip
@@ -1335,7 +1337,6 @@
       1 home.zip
       1 home.zip
       1 home.zip
-      1 Homepage.zip
       1 home (1).zip
       1 hnctfxd15.zip
       1 HMRC.zip
@@ -1662,6 +1663,7 @@
       1 CRA24avril 2.zip
       1 CR7.zip
       1 cpoket-web.zip
+      1 cpcreator.zip
       1 cpanel.zip
       1 cpanel-onedrive.zip
       1 cpalead-deployer(1).zip
@@ -1857,6 +1859,7 @@
       1 bmo.zip
       1 bmo-mobile.zip
       1 bMCHE3xHT360KYs8fUuNNr60224a2f1bc.zip
+      1 bluzim.zip
       1 blue.zip
       1 BlueUpdate.zip
       1 blocklist.txt.zip
@@ -2163,7 +2166,6 @@
       1 20210726
       1 2021-03-08-00-08-27
       1 2020 scam.zip
-      1 2020chase (1).zip
       1 20201211
       1 20201208
       1 20201123
