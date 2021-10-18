@@ -370,6 +370,7 @@
       1 www.verifica-dominio-id.com
       1 www.vakif-online-iade-tr.com
       1 www.user.dispersalcapital.com
+      1 www.user.cryptopinltd.com
       1 www.user.axelerytrading.com
       1 www.usbank.live
       1 www.update.verification.btconnet.net
