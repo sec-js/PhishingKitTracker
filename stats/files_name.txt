@@ -232,6 +232,7 @@
       1 wordpress-4.8.2-es
       1 without.zip
       1 withepage
+      1 WI-akira.zip
       1 who.zip
       1 whmcs.zip
       1 WHMCS
