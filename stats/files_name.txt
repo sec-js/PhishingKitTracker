@@ -19,6 +19,7 @@
       2 wucc.zip
       2 wordpress.zip
       2 UWN
+      2 usernames.txt.zip
       2 u8muj5t.zip
       2 touchmetal.in.zip
       2 tnwcmi.com.zip
@@ -352,7 +353,6 @@
       1 usps
       1 US.HSBC.zip
       1 US.HSBC.zip
-      1 usernames.txt.zip
       1 US Bank Phishing Page Undetected.zip
       1 usbank.com.zip
       1 USA.zip
@@ -920,6 +920,7 @@
       1 officeLast.zip
       1 officekml.zip
       1 officekml.zip
+      1 Office Kirin 1. release-1.zip
       1 officefiles.zip
       1 office-en.zip
       1 officeee.zip
@@ -1838,6 +1839,9 @@
       1 cgi-bin.zip
       1 cgi-bin.zip
       1 cgi-bin.zip
+      1 cgi-bin.zip
+      1 cgi-bin.zip
+      1 cgi-binss.zip
       1 cgi-binn.zip
       1 center netflix.zip
       1 CDLE login.zip
