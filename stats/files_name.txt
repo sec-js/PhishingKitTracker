@@ -352,6 +352,7 @@
       1 usps
       1 US.HSBC.zip
       1 US.HSBC.zip
+      1 usernames.txt.zip
       1 US Bank Phishing Page Undetected.zip
       1 usbank.com.zip
       1 USA.zip
@@ -1825,6 +1826,8 @@
       1 chase
       1 chapeaucmbn.zip
       1 CHANN 3JENIS GG2K21.zip
+      1 cgi-bin.zip
+      1 cgi-bin.zip
       1 cgi-bin.zip
       1 cgi-bin.zip
       1 cgi-bin.zip
