@@ -189,10 +189,12 @@
       1 wp-content.zip
       1 wp-content.zip
       1 wp-content.zip
+      1 wp-content.zip
       1 wp-connect.zip
       1 wp-config.php.gz
       1 wp-comments-post.php.gz
       1 wp-blog-header.php.gz
+      1 wp-admin.zip
       1 wp-admin.zip
       1 wp-admin.zip
       1 wp-admin.zip
