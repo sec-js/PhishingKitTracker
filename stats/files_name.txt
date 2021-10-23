@@ -429,6 +429,7 @@
       1 test.zip
       1 test.zip
       1 test.zip
+      1 test.tar
       1 teste-espaco.zip
       1 test0.zip
       1 tesco.zip
@@ -998,6 +999,7 @@
       1 new.zip
       1 NEW YAH.zip
       1 NEWWEB.COM.zip
+      1 NEW.tar
       1 new tanuj.zip
       1 new.service.com.zip
       1 newrpf.zip
