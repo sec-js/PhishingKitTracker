@@ -1278,6 +1278,7 @@
       1 itau.zip
       1 itaucard nova - mobile.zip
       1 itau30horas.zip
+      1 ITAU
       1 iservi panel.zip
       1 irs.zip
       1 irs.zip
