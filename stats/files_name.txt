@@ -453,6 +453,7 @@
       1 sw.zip
       1 swiss.zip
       1 swiss.zip
+      1 swiss.zip
       1 swisspostgerm.zip
       1 swiss.poste.zip
       1 swiss (1).zip
