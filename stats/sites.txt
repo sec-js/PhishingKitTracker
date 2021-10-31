@@ -41,6 +41,7 @@
       4 rofferapi.in
       4 paypal-account.my.id
       4 netflix.tiendasicam32.net
+      4 nep.com.np
       4 myvoicemail.ksns-llc.xyz
       4 myeeplan.com
       4 mldy.tk
@@ -1338,6 +1339,7 @@
       1 instadelivery24.pictopal.com
       1 insidersteam.com.br
       1 innsolutions.co
+      1 infovisionsaberation.academy
       1 infotechupdate.org
       1 info.bitz.co.za
       1 incodimsa.com
