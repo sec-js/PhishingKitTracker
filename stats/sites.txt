@@ -24,6 +24,7 @@
       6 avatarinnochem123.aanibrothers.in
       5 worldwideeducationservice.com
       5 vanillcrd.com
+      5 nep.com.np
       5 ioabc.wif.com.br
       5 highaltitudes.net
       5 gipocreditservices.com
@@ -41,7 +42,6 @@
       4 rofferapi.in
       4 paypal-account.my.id
       4 netflix.tiendasicam32.net
-      4 nep.com.np
       4 myvoicemail.ksns-llc.xyz
       4 myeeplan.com
       4 mldy.tk
@@ -251,6 +251,7 @@
       2 iwantall-71.gq
       2 ipv6.stedelijklyceumexpo.be
       2 in-insight.com
+      2 infovisionsaberation.academy
       2 inetsolv.info
       2 htrfep.online
       2 hocibio.com
@@ -1339,7 +1340,6 @@
       1 instadelivery24.pictopal.com
       1 insidersteam.com.br
       1 innsolutions.co
-      1 infovisionsaberation.academy
       1 infotechupdate.org
       1 info.bitz.co.za
       1 incodimsa.com
