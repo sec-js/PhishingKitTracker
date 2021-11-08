@@ -485,6 +485,7 @@
       1 static.zip
       1 staticsite.zip
       1 stand.zip
+      1 stackposts-v7.2.1.zip
       1 ssl(1).zip
       1 sskm.zip
       1 sshad4.zip
