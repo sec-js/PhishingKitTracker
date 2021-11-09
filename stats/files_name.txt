@@ -267,6 +267,7 @@
       1 west.com.zip
       1 wels.zip
       1 WELSS
+      1 wels faro.zip
       1 Welsfargo Repack (5).zip
       1 wells.zip
       1 wellssecurity.zip
