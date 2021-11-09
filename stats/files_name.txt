@@ -236,6 +236,7 @@
       1 wordpress-5.2.3.zip
       1 wordpress-5.2.3-pt
       1 wordpress-5.2.2.zip
+      1 wordpress-5.2.2.zip
       1 wordpress-5.0.3.zip
       1 wordpress-4.9.8 (1).zip
       1 wordpress-4.8.2-es
@@ -949,6 +950,7 @@
       1 officekml.zip
       1 Office Kirin 1. release-1.zip
       1 officefiles.zip
+      1 officee.zip
       1 office-en.zip
       1 officeee.zip
       1 office-cn.zip
