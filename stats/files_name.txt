@@ -283,6 +283,7 @@
       1 WellsFargoFinal.zip
       1 WellsFargoFinals.zip
       1 WellsFargo (2).zip
+      1 Wells (1).zip
       1 wells
       1 well-known.zip
       1 well-known.zip
@@ -1111,6 +1112,7 @@
       1 muglannew.zip
       1 muglannew1.zip
       1 M&T.zip
+      1 M&T updated.zip
       1 mth.zip
       1 mtbonline.zip
       1 M&T (3).zip
