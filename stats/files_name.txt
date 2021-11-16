@@ -367,6 +367,7 @@
       1 usps
       1 usps
       1 usps
+      1 us-online (4).zip
       1 US.HSBC.zip
       1 US.HSBC.zip
       1 US Bank Phishing Page Undetected.zip
@@ -785,6 +786,7 @@
       1 pichi2.zip
       1 php-fcm.zip
       1 phpBB-3.3.3.zip
+      1 PHP
       1 phishing-script FB by PROTIK.zip
       1 Pharma.zip
       1 pful3zwhw.tar
