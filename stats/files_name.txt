@@ -360,6 +360,7 @@
       1 uvdesk-community-current-stable.zip
       1 ute.zip
       1 ut 2.zip
+      1 us.zip
       1 USPS.zip
       1 usps no pin.zip
       1 usps
@@ -1587,6 +1588,7 @@
       1 ezyzip(3).zip
       1 ezyzip(2).zip
       1 ex.zip
+      1 ExRobotos-Redirect-v4-2020.zip
       1 ExRobotos-Redirect-v4-2020 (4).zip
       1 ExRobotos-Redirect-v4-202011.zip
       1 ExRobotos-OfficeV4-2020-fixed (1).zip
