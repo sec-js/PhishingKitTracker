@@ -509,6 +509,7 @@
       1 spread.zip
       1 spox.zip
       1 Spoxc.zip
+      1 SPOX
       1 Spox
       1 spotify.zip
       1 SPIN SEASON 16 V5.zip
