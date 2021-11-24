@@ -218,6 +218,7 @@
       1 wordpress-5.8.1.zip
       1 wordpress-5.8.1-tr
       1 wordpress-5.7.zip
+      1 wordpress-5.7-pt
       1 wordpress-5.7.2.zip
       1 wordpress-5.7.1.zip
       1 wordpress-5.6.zip
@@ -1770,6 +1771,7 @@
       1 dentro da pasta tem itau de brinde.zip
       1 deneme.zip
       1 demoahps.zip
+      1 dds (1).zip
       1 dc.zip
       1 db.zip
       1 DBS.zip
