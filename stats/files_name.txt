@@ -7,6 +7,7 @@
       3 usps
       3 raboNew.zip
       3 prestashop
+      3 Pagina bunaa.zip
       3 osol modiriyat.rar
       3 nyali.zip
       3 Netflix-RD326.zip
@@ -42,7 +43,6 @@
       2 perfex-2.7.1.zip
       2 p.dr-yasernaji.com.zip
       2 paypal.zip
-      2 Pagina bunaa.zip
       2 otmgem.com.zip
       2 optimu double result.zip
       2 OLUCHAS3.zip
