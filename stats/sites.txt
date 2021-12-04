@@ -859,6 +859,7 @@
       1 wallet.xprscoin.com
       1 walletconnection.authenticweb.ml
       1 wallet-atomic.com
+      1 w2.claimnew-pesmobile.cf
       1 vyc.com.pt
       1 vstsolution.com.br
       1 vrtgolabs.top
