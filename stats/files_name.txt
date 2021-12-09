@@ -282,6 +282,7 @@
       1 WellsRealPage.zip
       1 wellsnew.zip
       1 wellsf.zip
+      1 wellsfergoV2.1.zip
       1 WELLS FARGO.zip
       1 WellsFargo.zip
       1 WellsFargo.zip
