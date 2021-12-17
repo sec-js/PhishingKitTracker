@@ -735,6 +735,7 @@
       1 Quiz
       1 quip
       1 quilt.zip
+      1 quiere.zip
       1 QuickQR-v6.0.1-Saas-Contactless-Restaurant-QR-Menu-Maker-Download.zip
       1 quak.zip
       1 qtype
