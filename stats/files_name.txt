@@ -1265,6 +1265,7 @@
       1 lvx3fy3l.zip
       1 LUNO.zip
       1 LUNO.zip
+      1 LUNO.zip
       1 LUNO-verify.zip
       1 LUNO-verify.zip
       1 LUNO-verify (1).zip
@@ -1528,6 +1529,7 @@
       1 HialaWebsite.zip
       1 hh7lww450.zip
       1 hesk286.zip
+      1 Herms.zip
       1 Herms.zip
       1 help.zip
       1 help.zip
@@ -2088,6 +2090,7 @@
       1 Buy Bitcoin instantly 
       1 Butterfly.zip
       1 Business Bt.zip
+      1 business.bt.com.zip
       1 build.zip
       1 build.zip
       1 bugok.zip

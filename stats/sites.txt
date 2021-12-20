@@ -228,6 +228,7 @@
       2 secure-bankl0g1nacc.serveirc.com
       2 secure1kverify.duckdns.org
       2 sdbofdbvdflive.com
+      2 salutemarketing.net
       2 rtttravel.co
       2 rsbconstruction.net
       2 rjhumancare.com
@@ -1031,6 +1032,7 @@
       1 secure-paymmnnthome.servehttp.com
       1 securemail.taxiserviceinhimachal.com
       1 securemail.rkhobraa.com
+      1 secure-log-off.com
       1 secure.jigthtmil.xyz
       1 securedwallectrestore.com
       1 secure-dir5050.duckdns.org
