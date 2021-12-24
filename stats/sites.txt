@@ -1338,6 +1338,7 @@
       1 mail.harristone.com
       1 mail.gruporedinm.com.ar
       1 mail.goldenappletech.com
+      1 mail.garena-freefire-coom.duckdns.org
       1 mail.dhl-shipment.org
       1 mail.bestfreedogtraining.com
       1 mail.apprequerimientos-personas-enlineaa.one
