@@ -498,6 +498,7 @@
       1 s.zip
       1 s.zip
       1 s.zip
+      1 szamlazo-master.zip
       1 sw.zip
       1 swiss.zip
       1 swiss.zip
