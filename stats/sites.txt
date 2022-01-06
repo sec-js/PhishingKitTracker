@@ -231,6 +231,7 @@
       2 secure-bankl0g1nacc.serveirc.com
       2 secure1kverify.duckdns.org
       2 sdbofdbvdflive.com
+      2 samanthajowellness.com
       2 salutemarketing.net
       2 rtttravel.co
       2 rsbconstruction.net
