@@ -4,6 +4,7 @@
       8 desjardins.zip
       4 sharepoint.zip
       4 Netflix (2).zip
+      4 amaz.zip
       3 usps
       3 raboNew.zip
       3 prestashop
@@ -14,7 +15,6 @@
       3 index1.zip
       3 FNB-FICA-Registration-FNB-Online-Banking-Paid.zip
       3 Amilie-Index.zip
-      3 amaz.zip
       2 xploreinfotech.com.zip
       2 xploreinformationtechnology.com.zip
       2 wucc.zip
