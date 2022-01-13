@@ -1694,6 +1694,8 @@
       1 fedEx.zip
       1 fedex en.zip
       1 Fedex de.zip
+      1 federalcredit.zip
+      1 fedcreditunionplc.us.zip
       1 fcnym.unlp.edu.ar.zip
       1 fcm.uncu.edu.ar.zip
       1 fcen.zip
