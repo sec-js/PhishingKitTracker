@@ -1278,6 +1278,7 @@
       1 main.zip
       1 main
       1 MAil.zip
+      1 mailwallet.zip
       1 MailQuotaEng.zip
       1 Mail Minz.zip
       1 mail.login.com.zip
