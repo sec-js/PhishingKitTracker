@@ -22,6 +22,7 @@
       2 Verify.zip
       2 UWN
       2 usernames.txt.zip
+      2 uadmin.zip
       2 u8muj5t.zip
       2 touchmetal.in.zip
       2 tnwcmi.com.zip
@@ -435,7 +436,6 @@
       1 uber wn.zip
       1 uber (3).zip
       1 uber (3).zip
-      1 uadmin.zip
       1 uadmin.zip
       1 uadmin.rar
       1 ua9.demotest.icu.zip
