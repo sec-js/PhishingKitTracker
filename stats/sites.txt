@@ -1291,6 +1291,7 @@
       1 new-payee-authenticate-secure.com
       1 new.naboo.mx
       1 new.martlines.com
+      1 new.events-terbaru.com
       1 neweventrewards.com
       1 newdevice-notice.cc
       1 nevergrowere.com
