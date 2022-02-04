@@ -350,8 +350,10 @@
       2 baka5.my.id
       2 babyloncafeatl.com
       2 autoiot.in
+      2 auth05-secure.duckdns.org
       2 atrio.com.bo
       2 aslservices.com.bd
+      2 artursashiola.com
       2 anurontv.co.in
       2 amaz0m-ssl-fr-france.com
       2 al-rimi.com
@@ -1930,7 +1932,6 @@
       1 authorize-payee-payment.com
       1 authmtb3.duckdns.org
       1 auth-id-amazon.com.asw-id-4445-8965-1841-4585.com
-      1 auth05-secure.duckdns.org
       1 audiostore-ks.top
       1 audax.ventures
       1 attriusgroup.com.br
@@ -1943,7 +1944,6 @@
       1 asisto.com.sv
       1 a-sidedesign.com
       1 asbvaliant.com
-      1 artursashiola.com
       1 artofblackness.net
       1 artiste360.com
       1 artemis-case.com
