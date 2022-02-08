@@ -1687,6 +1687,7 @@
       1 fte.zip
       1 fruits.zip
       1 Front.zip
+      1 front-end.zip
       1 frontend
       1 frigidaire20170222.zip
       1 frigidaire201702223.zip
