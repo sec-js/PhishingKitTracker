@@ -1287,6 +1287,7 @@
       1 mfile.zip
       1 mfile.zip
       1 ME.zip
+      1 me.zip
       1 mėtamask.app.zip
       1 MERC
       1 menu.zip

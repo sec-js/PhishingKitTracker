@@ -699,6 +699,7 @@
       1 www.files.control-cmd.com
       1 www.fedextrackingonlinedelivery.drm.com.ng
       1 www.fb0auth.bfcbintl.com
+      1 www.farzanayasmin.com
       1 www.facebook.jobsite.life
       1 www.facebookforbusiness-bluebadgehelpclient.ml
       1 www.facebook.curiosidadesymas.xyz
