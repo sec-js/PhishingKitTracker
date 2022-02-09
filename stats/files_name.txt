@@ -1589,6 +1589,7 @@
       1 htaccess.zip
       1 hspanelfinal.zip
       1 hs-kl.zip
+      1 hsb.zip
       1 HSBC.zip
       1 hsbc.zip
       1 hpy0n3.zip
