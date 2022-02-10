@@ -65,6 +65,7 @@
       2 justguesthouse.com.zip
       2 ITAU
       2 ics.zip
+      2 htdocskop.zip
       2 Homepage.zip
       2 hayavadhanaenterprises.com.zip
       2 hard
@@ -1584,7 +1585,6 @@
       1 html.zip
       1 html.zip
       1 htdocs.zip
-      1 htdocskop.zip
       1 htdocskop.zip
       1 htdocs (4)vip.zip
       1 htdocnu.zip
