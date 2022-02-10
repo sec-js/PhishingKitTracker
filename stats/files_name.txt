@@ -13,6 +13,7 @@
       3 nyali.zip
       3 Netflix-RD326.zip
       3 index1.zip
+      3 htdocskop.zip
       3 FNB-FICA-Registration-FNB-Online-Banking-Paid.zip
       3 Amilie-Index.zip
       2 xploreinfotech.com.zip
@@ -65,7 +66,6 @@
       2 justguesthouse.com.zip
       2 ITAU
       2 ics.zip
-      2 htdocskop.zip
       2 Homepage.zip
       2 hayavadhanaenterprises.com.zip
       2 hard
