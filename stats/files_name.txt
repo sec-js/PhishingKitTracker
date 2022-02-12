@@ -417,6 +417,7 @@
       1 usa.zip
       1 Usa-Poste.zip
       1 usama
+      1 USAA.zip
       1 usaa.zip
       1 urouelhre.zip
       1 upssms.zip
@@ -1576,6 +1577,7 @@
       1 HuntinTon (1).zip
       1 HUNTING.zip
       1 Huntington.zip
+      1 huntington scama.zip
       1 huntington scama.zip
       1 huntingtonpremium sp.zip
       1 Hungtington 
