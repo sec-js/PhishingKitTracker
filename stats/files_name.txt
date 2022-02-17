@@ -1950,6 +1950,7 @@
       1 dist-php-mail (1).zip
       1 DilloRushGame.zip
       1 DIEP.zip
+      1 diepost.zip
       1 dh.nova.scotia.zip
       1 DHL.zip
       1 dhl.zip
@@ -2126,6 +2127,7 @@
       1 cibc.zip
       1 ciaar.com.mx.zip
       1 ci
+      1 CH.zip
       1 ch.zip
       1 ch.zip
       1 chronopost.zip
@@ -2136,6 +2138,7 @@
       1 chinese
       1 china.zip
       1 china-educations.zip
+      1 CHH.zip
       1 chhgi-bin.zip
       1 chhgi-bin.zip
       1 chhgi-bin.zip
