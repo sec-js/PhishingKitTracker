@@ -589,6 +589,7 @@
       1 solidworks-bundleoffer.zip
       1 SOLIDWORKS
       1 Solidworks
+      1 SolidInvoice-2.0.4.zip
       1 soc.zip
       1 soap.zip
       1 smtp tester.zip
