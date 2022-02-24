@@ -292,6 +292,7 @@
       1 we tranfer new.zip
       1 west.zip
       1 west.com.zip
+      1 wenu.zip
       1 wels.zip
       1 WELSS
       1 wels faro.zip
@@ -738,6 +739,7 @@
       1 rx350.zip
       1 RuWide.zip
       1 rschwab.zip
+      1 rr.zip
       1 RoyalMail-BitcoinM19.zip
       1 RoyalMail
       1 royalclubfinalfrontend.zip
