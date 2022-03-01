@@ -1096,6 +1096,7 @@
       1 sparkssd.xyz
       1 sovlow.com
       1 southnorth-71.ga
+      1 southbrbec.buzz
       1 sosureste.com
       1 sorrentoleeds.co.uk
       1 sociedadecrista.gq
@@ -1269,6 +1270,7 @@
       1 postfinance2secure.com
       1 poseidontzy.com
       1 portrowena.buzz
+      1 portfreyatt.buzz
       1 portablekitchen.ng
       1 poloniex.com-login-wallet.skillls.ir
       1 po-fees-redeliver.com
