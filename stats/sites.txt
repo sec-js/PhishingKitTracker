@@ -1164,6 +1164,7 @@
       1 secure.ddnsking.com
       1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
       1 secure4neftlix8.ddns.net
+      1 secure40b.com
       1 secure400-verify.duckdns.org
       1 secure3a-authusers.dynamic-dns.net
       1 secure21redirectme.ml
