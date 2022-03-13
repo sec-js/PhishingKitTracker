@@ -1346,6 +1346,7 @@
       1 mfile.zip
       1 ME.zip
       1 me.zip
+      1 meta test.zip
       1 mėtamask.app.zip
       1 meta2.zip
       1 MERC
@@ -2169,6 +2170,7 @@
       1 CollectBloodRavenV1.zip
       1 cole.zip
       1 coin.zip
+      1 coinbase.zip
       1 coinbase.zip
       1 coii3.zip
       1 code.zip

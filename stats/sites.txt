@@ -985,6 +985,7 @@
       1 walletsdappsconnect.net
       1 walletconnection.authenticweb.ml
       1 wallet-atomic.com
+      1 waisazorz.tk
       1 w2.claimnew-pesmobile.cf
       1 vyc.com.pt
       1 vstsolution.com.br
@@ -1913,6 +1914,7 @@
       1 contactoing.com
       1 connexion-bnpinet.nottinghillselfstorage.com.au
       1 connect.wellsfargo.com.vxcheck.com
+      1 connect-wallet-meta.com
       1 computechnology.com.ve
       1 compte.pole-box.fr
       1 comercialdym.com.gt
