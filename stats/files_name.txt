@@ -120,7 +120,6 @@
       1 好的.zip
       1 价格限定.zip
       1 Новая папка (2).zip
-      1 Архив.zip
       1 zzz.zip
       1 zz.zip
       1 z!.zip
@@ -1020,6 +1019,7 @@
       1 osTicket-v1.15.6.zip
       1 osTicket-v1.15.1.zip
       1 ornidsadmin.zip
+      1 ORIGIN WEBPANEL.zip
       1 Order-2019.zip
       1 Orange.zip
       1 orange.zip
