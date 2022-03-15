@@ -1328,6 +1328,7 @@
       1 paypal.com.accountlocked.libredelestres.com
       1 paypalc1.achat-virement-encours.fr
       1 paymoney.ml
+      1 payment-receipt.buzz
       1 payeecancelonline.net
       1 paybarbie.bestofferbabiegarcia.club
       1 paxful-teth.com.pendar-co.com
