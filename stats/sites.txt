@@ -1167,6 +1167,7 @@
       1 senseicloud.ga
       1 sellyoursemen.com
       1 segkos.gr
+      1 seemanchalindia.com
       1 securityiccbba.ddns.net
       1 security.ccashqpp.me
       1 secure.windowageweb.club
@@ -2030,6 +2031,7 @@
       1 bomsnds.com
       1 boa-useralert.duckdns.org
       1 boaaauth.duckdns.org
+      1 bnz.co-nz.link
       1 bnk-of-guam-onlineservice.icu
       1 bnet.dinevenice.com
       1 blueridgedevelopmentleague.com
