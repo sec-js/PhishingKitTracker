@@ -1429,6 +1429,7 @@
       1 netflix-de.simsekpc.com.tr
       1 netflix24-7-com.accountpaymentupdate.com
       1 netconnect-verify37486334.mypi.co
+      1 negafruit.ir
       1 neelkanthazm.com
       1 nduddis.xyz
       1 natwest.personal-secured.com
