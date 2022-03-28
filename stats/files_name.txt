@@ -25,6 +25,7 @@
       2 Verify.zip
       2 UWN
       2 usernames.txt.zip
+      2 ups.zip
       2 uadmin.zip
       2 u8muj5t.zip
       2 touchmetal.in.zip
@@ -434,7 +435,6 @@
       1 usaa.zip
       1 USAA2021.zip
       1 urouelhre.zip
-      1 ups.zip
       1 ups.zip
       1 upssms.zip
       1 upload.zip
