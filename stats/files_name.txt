@@ -1515,6 +1515,7 @@
       1 kingkey.zip
       1 killbot-shortlink.zip
       1 killbot-shortlink.zip
+      1 killbot-shortlink (With Panel) v1.0.4.zip
       1 kijun.zip
       1 kijiji.zip
       1 K&H.zip
