@@ -2339,6 +2339,7 @@
       1 cgi-bin.zip
       1 cgi-binss.zip
       1 cgi-binn.zip
+      1 cgi-bin1.zip
       1 center netflix.zip
       1 CEFNOVADESKTOP.zip
       1 cdn.dorik.com.zip
