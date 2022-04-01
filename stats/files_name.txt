@@ -618,6 +618,7 @@
       1 SolidInvoice-2.0.4.zip
       1 soc.zip
       1 soap.zip
+      1 sns.zip
       1 smtp tester.zip
       1 smirksf.zip
       1 smbce.zip
