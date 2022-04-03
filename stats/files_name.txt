@@ -822,6 +822,7 @@
       1 REAL-DOCS (1).zip
       1 readme.zip
       1 readme.html.gz
+      1 readerdube.zip
       1 re2.zip
       1 rdkaof.zip
       1 rbcanadaupdate.zip
