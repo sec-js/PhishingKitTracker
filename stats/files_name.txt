@@ -921,6 +921,7 @@
       1 postale.zip
       1 postalenew.zip
       1 postale
+      1 posta
       1 pos
       1 portal.zip
       1 pop.zip
