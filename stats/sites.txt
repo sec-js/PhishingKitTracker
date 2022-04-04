@@ -938,6 +938,7 @@
       1 www.apple.appleid.highpointsa.com
       1 www.app.e-capitalbank.com
       1 www.appcovid.corpovirus.com
+      1 www.app.bancor.network.eth-mainet.online
       1 www.anz-secure-guard.com
       1 www.ameli.fr.cerathdev.org
       1 www.amazon.dctchiropractic.com.au
