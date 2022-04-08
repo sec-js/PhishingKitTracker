@@ -1585,6 +1585,7 @@
       1 logisticabraz.com
       1 login.radikari.co.id
       1 login-overviewcoin2fa.com
+      1 login.minisoftclook.com
       1 login.huntington.com-secured.verify.mabiz.ma
       1 login-device-attempt.link
       1 login-accountid.com
