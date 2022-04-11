@@ -1401,6 +1401,7 @@
       1 outfitterwarehouse.com
       1 ourcapitalone.com
       1 otomotifcenter.com
+      1 otiszal.co.zm
       1 ostrichpredator.party
       1 oshquality.com
       1 origimaliin.com
@@ -1494,6 +1495,7 @@
       1 myaccount-paypolid2121.servebbs.com
       1 myacc-billing.com
       1 my3-info-change.com
+      1 mwptoken.com
       1 murraymountain.buzz
       1 mubb4sessl.ddns.net
       1 muara-adv.com
