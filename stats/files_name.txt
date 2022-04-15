@@ -1441,6 +1441,7 @@
       1 mailbox.zip
       1 mailbox.zip
       1 magone.zip
+      1 magic.zip
       1 Maga v4.7.zip
       1 magalu.zip
       1 MadelineProto-master.zip
