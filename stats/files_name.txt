@@ -380,7 +380,9 @@
       1 waring.zip
       1 wallet.zip
       1 wallet.xenioscoin.bonus-erc20-token.info.zip
+      1 wallets.zip
       1 walletsecure.zip
+      1 walletnewdesign.zip
       1 wallet con.zip
       1 walletconnect.zip
       1 wagroups-ultimate-pro
