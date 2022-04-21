@@ -29,6 +29,7 @@
       2 xploreinformationtechnology.com.zip
       2 wucc.zip
       2 wordpress.zip
+      2 wallets.zip
       2 Verify.zip
       2 UWN
       2 usernames.txt.zip
@@ -380,7 +381,6 @@
       1 waring.zip
       1 wallet.zip
       1 wallet.xenioscoin.bonus-erc20-token.info.zip
-      1 wallets.zip
       1 walletsecure.zip
       1 walletnewdesign.zip
       1 wallet con.zip
