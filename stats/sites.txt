@@ -224,6 +224,7 @@
       2 usbarsandrestaurants.com
       2 update-your-account.onelinesuccess.com
       2 update.llhoa.us
+      2 unlimitedusps.com
       2 univers-smartphone.com
       2 ugq.com.mx
       2 uextr.gq
@@ -1077,7 +1078,6 @@
       1 update07.com
       1 uodaniellazsz.ga
       1 unlockedaccountvrf.ddns.net
-      1 unlimitedusps.com
       1 unlimitedhundredrhytihm.com
       1 uniconet.cloudns.asia
       1 uni.accessd.clientlogin.info.update.bohemianbotanics.co.za
