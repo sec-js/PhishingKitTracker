@@ -1654,6 +1654,7 @@
       1 Invite.zip
       1 invest.zip
       1 investorm-v1.1.1.zip
+      1 investordeck.zip
       1 intract vps.zip
       1 interbank.zip
       1 interac.zip
@@ -2462,6 +2463,7 @@
       1 cash.zip
       1 CashApp.zip
       1 ca-secure.zip
+      1 carrefour-fr-news.zip
       1 carrefour-fr-news.zip
       1 carpetas
       1 capturas.zip
