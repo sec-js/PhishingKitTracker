@@ -107,6 +107,7 @@
       3 select.rw
       3 securedmobileplat.com
       3 secure16lverify.duckdns.org
+      3 saveourvalues.net
       3 renton.apttechsol.com
       3 recreationrva.com
       3 ps.unublitar.ac.id
@@ -269,7 +270,6 @@
       2 secure1kverify.duckdns.org
       2 sdbofdbvdflive.com
       2 scan-mawaq488-up.com
-      2 saveourvalues.net
       2 samanthajowellness.com
       2 salutemarketing.net
       2 rtttravel.co
