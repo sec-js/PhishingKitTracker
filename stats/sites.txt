@@ -401,6 +401,7 @@
       2 amaz0m-ssl-fr-france.com
       2 al-rimi.com
       2 alicopvtltd.com
+      2 aksharfinservices.com
       2 aixcloudhost.com
       2 agenciadigitalwdys.com
       2 ac-valid.xyz
@@ -1994,6 +1995,7 @@
       1 daybydana.top
       1 davivienda-acceso-personas.com
       1 data-walletconnect.com
+      1 dappsmain.com
       1 daily-whisker.com
       1 cyclicslot.com
       1 cuveethefrenchie.com
