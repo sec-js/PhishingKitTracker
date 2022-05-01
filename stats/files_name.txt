@@ -163,6 +163,7 @@
       1 zappppPPAGE.zip
       1 z9w20l0o.zip
       1 z0n51-ca.zip
+      1 yum.repos.d.zip
       1 york.zip
       1 yl
       1 ykle.zip
