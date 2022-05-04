@@ -762,6 +762,7 @@
       1 scr.zip
       1 script.zip
       1 script.zip
+      1 script.zip
       1 scriptP.zip
       1 SCRIPT NEW GG.7z
       1 SCRIPT for yahoo.zip
