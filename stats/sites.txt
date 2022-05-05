@@ -1102,6 +1102,7 @@
       1 unlockedaccountvrf.ddns.net
       1 unlimitedhundredrhytihm.com
       1 universelabworks.com
+      1 universalconnectlive.com
       1 unitedglassfabrication.com
       1 uniconet.cloudns.asia
       1 uni.accessd.clientlogin.info.update.bohemianbotanics.co.za
@@ -1572,6 +1573,7 @@
       1 mtsecu.servemp3.com
       1 mton1.com
       1 mtbbsecure.com
+      1 mtbacctdga.zapto.org
       1 mtbacc.nerdpol.ovh
       1 msomdndbvsdfservices.com
       1 msomdndbvsdf.com
