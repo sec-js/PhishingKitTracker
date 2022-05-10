@@ -1714,6 +1714,7 @@
       1 investorm-v1.1.1.zip
       1 investordeck.zip
       1 intract vps.zip
+      1 INTESA-CARTA.zip
       1 interbank.zip
       1 interac.zip
       1 interac.zip
