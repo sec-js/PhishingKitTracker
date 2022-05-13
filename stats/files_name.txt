@@ -29,6 +29,7 @@
       2 xploreinformationtechnology.com.zip
       2 wucc.zip
       2 wordpress.zip
+      2 WellsFargo.zip
       2 wallets.zip
       2 Verify.zip
       2 UWN
@@ -327,7 +328,6 @@
       1 wellsf.zip
       1 wellsfergoV2.1.zip
       1 WELLS FARGO.zip
-      1 WellsFargo.zip
       1 WellsFargo.zip
       1 WellsFargo.zip
       1 WellsFargo.zip
