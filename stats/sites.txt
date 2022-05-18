@@ -320,6 +320,7 @@
       2 login-verify.bepqueen.com
       2 lawyer.ahmed-ajory.com
       2 lavalink.ca
+      2 latidoempresarial.org
       2 lalalt-71.gq
       2 kbppp.ilmci.com
       2 kathimurphy.com
@@ -1742,7 +1743,6 @@
       1 laughingchakra.icu
       1 laubergesonoma.org
       1 latoramichelle.com
-      1 latidoempresarial.org
       1 latest.sowilo.co.za
       1 laria.com.br
       1 lapostesexpress.adinathinfosys.com
