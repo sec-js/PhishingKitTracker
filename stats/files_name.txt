@@ -1469,6 +1469,7 @@
       1 moodle-3.9.zip
       1 moodle-3.9.1.zip
       1 moodle-3.8.1.zip
+      1 moneymanager.zip
       1 moneycleanlabs.zip
       1 mona.png.zip
       1 MODULO
