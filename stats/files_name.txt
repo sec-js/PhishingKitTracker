@@ -673,6 +673,7 @@
       1 ST.zip
       1 sts.zip
       1 sts.zip
+      1 strato.zip
       1 store.zip
       1 stores
       1 store
