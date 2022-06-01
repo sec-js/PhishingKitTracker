@@ -181,6 +181,7 @@
       1 yik.zip
       1 YHAYUK.zip
       1 yellowpage.zip
+      1 yahoo.zip
       1 YahooNew.zip
       1 yahoo2020.zip
       1 YAHOO-2018.zip
@@ -298,6 +299,7 @@
       1 wordpress-5.0.3.zip
       1 wordpress-4.9.8 (1).zip
       1 wordpress-4.8.2-es
+      1 wmnew-php.zip
       1 without.zip
       1 withepage
       1 windrv.int.zip
@@ -1282,6 +1284,7 @@
       1 Officevaleryval014 (1).zip
       1 office true login (1).zip
       1 office payment (5).zip
+      1 OfficePage (1).zip
       1 Office-OnlyBusiness-Fixed.zip
       1 Office-OnlyBusiness-Fixed.zip
       1 office-onedrive.zip
@@ -2528,6 +2531,7 @@
       1 CR7.zip
       1 cpoket-web.zip
       1 cpcreator.zip
+      1 cpanel.zip
       1 cpanel.zip
       1 cpanel-onedrive.zip
       1 cpalead-deployer(1).zip
