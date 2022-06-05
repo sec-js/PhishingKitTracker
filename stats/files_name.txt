@@ -99,6 +99,7 @@
       2 ensenergys.com.zip
       2 emt.zip
       2 elmsrealestatepvtltd
+      2 dot.zip
       2 dc.uba.ar.zip
       2 dcdubai.com.zip
       2 databasebank.in.zip
@@ -2391,7 +2392,6 @@
       1 DPD
       1 download.zip
       1 downloads.zip
-      1 dot.zip
       1 Don.zip
       1 domains.zip
       1 domainreseller
