@@ -1127,6 +1127,7 @@
       1 vfxdomain.com
       1 vesicacarsservices.vkrbankingeg.com
       1 verzendkosten-voldoen.info
+      1 verify-web11.duckdns.org
       1 verify28secure.com
       1 verify02wellsfarg0.myvnc.com
       1 verificationprocess.co.vu
