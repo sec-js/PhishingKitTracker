@@ -716,6 +716,7 @@
       1 www.new-id-auth.dynamic-dns.net
       1 www.netflixuk.globalforus.com
       1 www.netflix-support-team.com
+      1 www.netflixsupport.dns05.com
       1 www.netflixquaretena.com
       1 www.netflix-mijnaccount.info
       1 www.netflix.eunicethomas.com
