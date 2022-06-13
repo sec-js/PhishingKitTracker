@@ -415,6 +415,7 @@
       1 warwick.zip
       1 waring.zip
       1 wallet.zip
+      1 wallet.zip
       1 wallet.xenioscoin.bonus-erc20-token.info.zip
       1 walletsecure.zip
       1 wallet-restoration-RD772 (1).zip
