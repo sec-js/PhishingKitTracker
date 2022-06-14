@@ -2339,6 +2339,7 @@
       1 boa-useralert.duckdns.org
       1 boasecure-verify.duckdns.org
       1 boaaauth.duckdns.org
+      1 bnzsupporta.com
       1 bnz.co-nz.link
       1 bnk-of-guam-onlineservice.icu
       1 bnet.dinevenice.com
