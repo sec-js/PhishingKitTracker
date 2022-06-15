@@ -756,6 +756,7 @@
       1 sk.zip
       1 skymesh.net.au.zip
       1 skr7u4im8.zip
+      1 sk posta.zip
       1 skillsoundgrp.dat.zip
       1 skillname-e.dat.zip
       1 skillgrp.dat.zip
