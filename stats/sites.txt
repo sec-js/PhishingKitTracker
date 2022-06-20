@@ -281,6 +281,7 @@
       2 securitycheck-ppayl-secure.com
       2 secure.facebook.com5198349328954.com
       2 secured-box.icu
+      2 secured-assistance.fr
       2 secure-bankl0g1nacc.serveirc.com
       2 secure1kverify.duckdns.org
       2 sdbofdbvdflive.com
@@ -1375,7 +1376,6 @@
       1 secure-dir5050.duckdns.org
       1 secure-digitally-fide-lity-userverification.ns01.info
       1 secure.ddnsking.com
-      1 secured-assistance.fr
       1 securebepageaccount.x24hr.com
       1 secure.bankofamerica.com.update.upgrade.cmsdance.ro
       1 secure-assistenza-nexi-it.ddns.mobi
