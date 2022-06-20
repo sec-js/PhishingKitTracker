@@ -116,6 +116,7 @@
       3 serenitychamber.com
       3 select.rw
       3 securedmobileplat.com
+      3 secured-assistance.fr
       3 secure16lverify.duckdns.org
       3 saveourvalues.net
       3 renton.apttechsol.com
@@ -281,7 +282,6 @@
       2 securitycheck-ppayl-secure.com
       2 secure.facebook.com5198349328954.com
       2 secured-box.icu
-      2 secured-assistance.fr
       2 secure-bankl0g1nacc.serveirc.com
       2 secure1kverify.duckdns.org
       2 sdbofdbvdflive.com

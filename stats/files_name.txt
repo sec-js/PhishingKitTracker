@@ -67,6 +67,7 @@
       2 p.dr-yasernaji.com.zip
       2 pdf.zip
       2 paypal.zip
+      2 paiement-securises.zip
       2 otmgem.com.zip
       2 optimu double result.zip
       2 OLUCHAS3.zip
@@ -1166,7 +1167,6 @@
       1 paindesucrerd.zip
       1 paindesucreparty.zip
       1 paiement-securise.zip
-      1 paiement-securises.zip
       1 pagina do iteck 6  e  4
       1 Pageme.zip
       1 PAGE INT.zip
