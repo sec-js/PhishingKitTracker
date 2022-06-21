@@ -1729,6 +1729,7 @@
       1 mids.alphagg7.cyou
       1 mido-safe.com
       1 midasbuyy.my.id
+      1 midaesbuyevents.my.id
       1 microsoft-signin.releasethehops.com
       1 michaelhelzy.ga
       1 mghospitalar.com
