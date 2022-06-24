@@ -1728,6 +1728,7 @@
       1 lokall 2.0.zip
       1 Log.zip
       1 logy.zip
+      1 log-required.txt.zip
       1 logo.zip
       1 logongrp.dat.zip
       1 Login.zip
