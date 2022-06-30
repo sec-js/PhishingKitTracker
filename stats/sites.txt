@@ -43,6 +43,7 @@
       5 hiala.org
       5 gruporoyale.net
       5 gipocreditservices.com
+      5 feraljundi.com
       5 empoweringbridges.com
       5 dofus.app
       5 chalxe.duckdns.org
@@ -77,7 +78,6 @@
       4 fromourheart.org
       4 freemavensguild.com
       4 fnoomp.tk
-      4 feraljundi.com
       4 extremecompute.io
       4 e-ventuz.com
       4 etisalatebills.com
