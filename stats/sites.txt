@@ -1450,6 +1450,7 @@
       1 royal-mail.uk
       1 royalmail-track.services
       1 royal.mail-issue.com
+      1 royal-delivery-send.ga
       1 royalauditores.cl
       1 rostoleum-int.com
       1 roisites2.com
@@ -2115,6 +2116,7 @@
       1 fafadjffhd.xyz
       1 facebook-vid.xyz
       1 facebook-update.hectordecardenas.edu.pe
+      1 facebook.trustingworld.com
       1 facebook.slinnk.me
       1 facebook-secvre01c.com
       1 facebookmy.otzo.com
