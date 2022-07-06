@@ -467,6 +467,7 @@
       1 version finale (1) (2).zip
       1 Verify.zip
       1 Verify.zip
+      1 Verify.zip
       1 verify.zip
       1 verifyoffice.zip
       1 verified.zip
@@ -758,6 +759,7 @@
       1 soc.zip
       1 soap.zip
       1 smtp tester.zip
+      1 SMS.Gateway.Package.zip
       1 smirksf.zip
       1 smbce.zip
       1 smbc.co.jp.zip
@@ -2601,6 +2603,7 @@
       1 dashboard.zip
       1 dashboard-old.zip
       1 Dashboard-Chase (2).zip
+      1 darkx.zip
       1 DarkWeb mt.zip
       1 DarkWeb mt 2.zip
       1 dapps.zip
