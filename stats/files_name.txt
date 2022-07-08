@@ -152,6 +152,7 @@
       1 zph7woa.tar
       1 zoosk.zip
       1 ZoneName-e.dat.zip
+      1 zk2.zip
       1 zi.zip
       1 zi.zip
       1 zipper-2020-12-07--08-39.zip
