@@ -50,6 +50,7 @@
       5 chalxe.duckdns.org
       5 bluishknare.com
       5 blakebabsonfirm.com
+      5 app-suportesac.com
       5 aliceblueonline.in
       5 95.85.43.186
       4 zero-sample.net
@@ -1948,6 +1949,7 @@
       1 join.buildsafe.cn
       1 joinbokepp.duckdns.org
       1 johnsglen.xyz
+      1 johnfranchetti.com
       1 jmemanagement.com
       1 jkis.in
       1 jimsautomotiveshop.com

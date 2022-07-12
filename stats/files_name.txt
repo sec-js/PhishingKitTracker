@@ -924,6 +924,7 @@
       1 san.zip
       1 santan live.zip
       1 santander.zip
+      1 Santander.system.zip
       1 santander.mx.chemsbury.net.zip
       1 santanderadam.zip
       1 SANTACTUAL208.zip
@@ -1682,6 +1683,7 @@
       1 metamask.zip
       1 mėtamask.app.zip
       1 meta2.zip
+      1 mercadopagoprev.zip
       1 MERC
       1 menu.zip
       1 MEDIOLANUM.zip
@@ -2977,6 +2979,7 @@
       1 call me or do not edit until 12-11-18
       1 call
       1 cai.zip
+      1 Caixasystem.zip
       1 caixaBanco22
       1 Caisse-Epargne-2022-Telegram.zip
       1 cagrıı edevlet.zip
@@ -3015,6 +3018,7 @@
       1 bredbank.zip
       1 brazilpa.zip
       1 BRAND NEW HSBC UPDATED WITH ANTIBOTS MAXIMUM - 2021 MATCH.zip
+      1 bra-bra.zip
       1 bpost.zip
       1 bpf.zip
       1 BPER.zip
@@ -3108,6 +3112,7 @@
       1 bbletra.zip
       1 bbhhh.zip
       1 bb-config.php.zip
+      1 bb.com.br.zip
       1 bbbchase.zip
       1 batatinhanoo.zip
       1 bass.zip
@@ -3296,6 +3301,7 @@
       1 amp 2.php.zip
       1 amp 2.php.zip
       1 AMOL PHADKE NEW WEB.zip
+      1 amex.zip
       1 Amex Page.zip
       1 AmericanExpress. (2).zip
       1 americafirst.zip
