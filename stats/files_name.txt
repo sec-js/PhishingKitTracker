@@ -101,6 +101,7 @@
       2 emt.zip
       2 elmsrealestatepvtltd
       2 dot.zip
+      2 DHLJSDE.zip
       2 dc.uba.ar.zip
       2 dcdubai.com.zip
       2 databasebank.in.zip
@@ -2582,7 +2583,6 @@
       1 dhlpakistan.tar
       1 DHL page (1).zip
       1 DHL new.zip
-      1 DHLJSDE.zip
       1 dhlil.zip
       1 dhlf.zip
       1 DHL BY [CRAX.PRO].zip
