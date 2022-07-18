@@ -219,6 +219,7 @@
       1 w.zip
       1 www.zip
       1 www.ukrainedate.com.zip
+      1 www.truist.com.zip
       1 www.santander.cl.zip
       1 www.paypal.com.zip
       1 www.citizenship-program.com.zip
