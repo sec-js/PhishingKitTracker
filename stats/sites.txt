@@ -299,6 +299,7 @@
       2 secure1kverify.duckdns.org
       2 sdbofdbvdflive.com
       2 scan-mawaq488-up.com
+      2 sassysisterscleaning.com
       2 samanthajowellness.com
       2 salutemarketing.net
       2 rtttravel.co
@@ -433,6 +434,7 @@
       2 baraz.al
       2 banquepostale-moncompte.fr.marriagetutorial.com
       2 bankzaken-rabo.top
+      2 baldr-tech.com
       2 baka5.my.id
       2 babyloncafeatl.com
       2 axisnet.online
@@ -1342,6 +1344,7 @@
       1 srv.secure15-amazoncs.com
       1 srv.csc-support-amazon.com
       1 srv.account.login.infoactvtyusc.com
+      1 srganso.com
       1 sprtcprtbsns88.link
       1 spreadstyle.top
       1 sporcftc.fr
@@ -1449,7 +1452,6 @@
       1 sbhanmankhl9kosawar.com
       1 savannahout.com
       1 saudipost.comsa.unibox.dk
-      1 sassysisterscleaning.com
       1 sarouz.com
       1 saradaniela.com
       1 santaskey2recovery.com
@@ -2515,7 +2517,6 @@
       1 bankieren.rabobank.nl.recycle-traject.gcitogo.com
       1 bankieren.rabobank.nl.online-identificatie.aulavirtualcecip.com.mx
       1 bancacaixa.com
-      1 baldr-tech.com
       1 backbox.gq
       1 b9084.xyz
       1 azmaribet.com
