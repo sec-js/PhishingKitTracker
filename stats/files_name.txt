@@ -3080,6 +3080,7 @@
       1 Bmx2.zip
       1 bmo.zip
       1 bmo-mobile.zip
+      1 bmi.zip
       1 bMCHE3xHT360KYs8fUuNNr60224a2f1bc.zip
       1 bluzim.zip
       1 blue.zip
