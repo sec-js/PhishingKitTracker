@@ -282,6 +282,7 @@
       2 steamychidet.com
       2 sskml.xyz
       2 sritekukur.com.my
+      2 srganso.com
       2 soporte-serviciosenlinea.ibx.lat
       2 sixfiguredreambiz.icu
       2 sistemhr.com
@@ -1345,7 +1346,6 @@
       1 srv.secure15-amazoncs.com
       1 srv.csc-support-amazon.com
       1 srv.account.login.infoactvtyusc.com
-      1 srganso.com
       1 sprtcprtbsns88.link
       1 spreadstyle.top
       1 sporcftc.fr
@@ -1541,6 +1541,7 @@
       1 qrcode.oladelivery.store
       1 qaxzew.gq
       1 pydresultados.com
+      1 pychain.io
       1 pwuxmeudm.ga
       1 pvpgame.ga
       1 puntoblu.me
