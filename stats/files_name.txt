@@ -92,6 +92,7 @@
       2 inventory
       2 inspobin
       2 ics.zip
+      2 htdocs.zip
       2 Homepage.zip
       2 hayavadhanaenterprises.com.zip
       2 hard
@@ -2129,7 +2130,6 @@
       1 html.zip
       1 html.zip
       1 html.zip
-      1 htdocs.zip
       1 htdocs.zip
       1 htdocskop.zip
       1 htdocskop.zip

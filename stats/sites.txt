@@ -62,6 +62,7 @@
       4 vivsoftair.com
       4 usisandbox.com
       4 tradeswarehouse.com
+      4 srganso.com
       4 rofferapi.in
       4 paypal-account.my.id
       4 netflix.tiendasicam32.net
@@ -116,7 +117,6 @@
       3 surveyurl.co.in
       3 suncoastcreditunionsercure1.www1.biz
       3 stkipmokut.ac.id
-      3 srganso.com
       3 sonuguptaclasses.com
       3 sinatebgroup.ir
       3 simob.cf
