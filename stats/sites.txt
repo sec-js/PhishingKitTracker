@@ -37,6 +37,7 @@
       5 vanillcrd.com
       5 touramp.com
       5 techvantageapps.com
+      5 srganso.com
       5 nep.com.np
       5 materactiva.cl
       5 ioabc.wif.com.br
@@ -62,7 +63,6 @@
       4 vivsoftair.com
       4 usisandbox.com
       4 tradeswarehouse.com
-      4 srganso.com
       4 rofferapi.in
       4 paypal-account.my.id
       4 netflix.tiendasicam32.net
@@ -394,6 +394,7 @@
       2 dedach.com.au
       2 davivienda.cualquier-cosa.com
       2 datzdem.com
+      2 dargah-sigh.tk
       2 dannosa.com
       2 czechineseauction.com
       2 cuentabancomovilparticulares.com
@@ -2280,7 +2281,6 @@
       1 daybydana.top
       1 davivienda-acceso-personas.com
       1 data-walletconnect.com
-      1 dargah-sigh.tk
       1 dappsmain.com
       1 daily-whisker.com
       1 cyclicslot.com
