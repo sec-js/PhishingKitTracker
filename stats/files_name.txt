@@ -126,6 +126,7 @@
       2 connectingbangalore.com.zip
       2 connectingandhrapradesh.com.zip
       2 clef.zip
+      2 citizen
       2 chase-login.zip
       2 Chase2022.zip
       2 chase000.zip
@@ -2849,7 +2850,6 @@
       1 Citizens.zip
       1 citizens.zip
       1 citizen1161.zip
-      1 citizen
       1 CITI SCAMPAGE 2022 clean.zip
       1 Citibank.zip
       1 Citibank.zip
