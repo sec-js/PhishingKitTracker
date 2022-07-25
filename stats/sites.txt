@@ -1447,6 +1447,7 @@
       1 secure0-netflix.ddns.net
       1 secure08eb.serveirc.com
       1 secure07h-chase.com
+      1 secure03.online.chase.com.coinstationfx.com
       1 secure02admin-chase.com
       1 secure01ch.duckdns.org
       1 secur4mtb.duckdns.org
