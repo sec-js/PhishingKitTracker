@@ -74,6 +74,7 @@
       2 optimu double result.zip
       2 OLUCHAS3.zip
       2 Office365-Scampage- EDITED.zip
+      2 ny.zip
       2 nf aspect.zip
       2 newshop.zip
       2 Netflix.zip
@@ -1467,7 +1468,6 @@
       1 nz.zip
       1 N.zip
       1 n.zip
-      1 ny.zip
       1 nyongkode-master.zip
       1 nyali566.zip
       1 nxozd2f.zip
