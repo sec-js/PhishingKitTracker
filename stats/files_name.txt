@@ -454,6 +454,7 @@
       1 walletnewdesign.zip
       1 wallet con.zip
       1 walletconnect.zip
+      1 WalletConnectFTP.zip
       1 wallet-connect(1).zip
       1 wagroups-ultimate-pro
       1 wab.zip
@@ -3132,6 +3133,7 @@
       1 BlueUpdate.zip
       1 blue-note-drive.zip
       1 blocklist.txt.zip
+      1 Blockchain.zip
       1 blockchain.zip
       1 Blockchain-updated.zip
       1 BlockChaine.zip
