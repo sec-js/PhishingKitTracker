@@ -297,6 +297,7 @@
       1 wordpress.zip
       1 wordpress.zip
       1 wordpress.zip
+      1 wordpress-6.0.1.zip
       1 wordpress-5.8.1.zip
       1 wordpress-5.8.1-tr
       1 wordpress-5.7.zip
