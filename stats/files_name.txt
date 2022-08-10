@@ -1300,6 +1300,7 @@
       1 osTicket-v1.15.6.zip
       1 osTicket-v1.15.1.zip
       1 ornidsadmin.zip
+      1 orixcredit.zip
       1 ORIGIN WEBPANEL.zip
       1 Order-2019.zip
       1 Orange.zip
