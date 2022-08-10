@@ -250,6 +250,7 @@
       1 wrap
       1 wQeam9zl2DZ5S5LVmxpCEi.zip
       1 wp.zip
+      1 wp.zip
       1 wp-trackback.php.gz
       1 wp-ss.zip
       1 wp-signup.php.gz
