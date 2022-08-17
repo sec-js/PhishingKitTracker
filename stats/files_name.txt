@@ -929,6 +929,7 @@
       1 scriptP.zip
       1 SCRIPT NEW GG.7z
       1 SCRIPT for yahoo.zip
+      1 script
       1 scppnew.zip
       1 SC PEMBLOKIRAN FACEBOOK- v2.zip
       1 scotiabank3.zip
