@@ -2074,6 +2074,7 @@
       1 invoice
       1 Invite.zip
       1 invest.zip
+      1 investorm.zip
       1 investorm-v1.1.1.zip
       1 investordeck.zip
       1 inv
