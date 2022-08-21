@@ -301,6 +301,7 @@
       2 sgrul.com
       2 serviceuspaym-client.com
       2 service-envoi-client.com
+      2 securityteam.authorizeddns.net
       2 securitycheck-ppayl-secure.com
       2 secure.facebook.com5198349328954.com
       2 secured-box.icu
