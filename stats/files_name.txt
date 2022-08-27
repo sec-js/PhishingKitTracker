@@ -264,6 +264,7 @@
       1 wp-login.php.gz
       1 wp-load.php.gz
       1 wp-links-opml.zip
+      1 wp-links-opml.zip
       1 wp-links-opml.php.gz
       1 wp-lib.zip
       1 wp-lib.zip
