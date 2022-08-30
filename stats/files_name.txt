@@ -70,6 +70,7 @@
       2 perfex-2.7.1.zip
       2 p.dr-yasernaji.com.zip
       2 pdf.zip
+      2 Paypal.zip
       2 paypal.zip
       2 paiement-securises.zip
       2 otmgem.com.zip
@@ -1243,7 +1244,6 @@
       1 PayPal.zip
       1 PayPal.zip
       1 PayPal.zip
-      1 Paypal.zip
       1 paypal scam us.zip
       1 paypalscampageV2.2-byRNH.zip
       1 PayPal Page J2CHOPS.zip
