@@ -473,6 +473,7 @@
       2 amaz0m-ssl-fr-france.com
       2 al-rimi.com
       2 alicopvtltd.com
+      2 aldulaymiyah.com
       2 aksharfinservices.com
       2 aixcloudhost.com
       2 aib-mobilebanking-secure-access.com
@@ -1266,6 +1267,7 @@
       1 vdfeerd.ml
       1 vcah.co.uk
       1 vanilla-balance.com
+      1 valleyviewlogcabin.com
       1 vakifcekilisekayit.ml
       1 vadijkboulevv.buzz
       1 uufkhxydyus.xyz
