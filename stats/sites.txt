@@ -1499,6 +1499,7 @@
       1 secure.jigthtmil.xyz
       1 secure-id6397-chase.com
       1 securedwallectrestore.com
+      1 secured-update-my-amzn-logon.4nmn.com
       1 secure-dir5050.duckdns.org
       1 secure-digitally-fide-lity-userverification.ns01.info
       1 secure.ddnsking.com
