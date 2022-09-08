@@ -39,6 +39,7 @@
       5 touramp.com
       5 techvantageapps.com
       5 srganso.com
+      5 parkstatesbank.com
       5 nep.com.np
       5 materactiva.cl
       5 ioabc.wif.com.br
@@ -67,7 +68,6 @@
       4 tradeswarehouse.com
       4 rofferapi.in
       4 paypal-account.my.id
-      4 parkstatesbank.com
       4 netflix.tiendasicam32.net
       4 myvoicemail.ksns-llc.xyz
       4 myeeplan.com
