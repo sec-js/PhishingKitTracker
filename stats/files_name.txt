@@ -58,6 +58,7 @@
       2 statuscluster.com.zip
       2 sriraetnasolutions.com.zip
       2 srimaruthico.com.zip
+      2 Sm.zip
       2 sirosa
       2 shyamregi.com.zip
       2 shrivaricargo.com.zip
@@ -134,6 +135,7 @@
       2 clef.zip
       2 citizen
       2 chase-login.zip
+      2 CHASE BY SNAKE
       2 Chase2022.zip
       2 chase2021.zip
       2 chase000.zip
@@ -152,6 +154,7 @@
       2 Amazon.zip
       2 ALTA.zip
       2 allindiapincode.com.zip
+      2 alaskaa.zip
       2 AFile.zip
       2 admin.zip
       2 abicluster.com.zip
@@ -827,7 +830,6 @@
       1 SolidInvoice-2.0.4.zip
       1 soc.zip
       1 soap.zip
-      1 Sm.zip
       1 smtp tester.zip
       1 SMS.Gateway.Package.zip
       1 smirksf.zip
@@ -1844,6 +1846,7 @@
       1 mailbox.zip
       1 magone.zip
       1 magic.zip
+      1 magic.zip
       1 Maga v4.7.zip
       1 magalu.zip
       1 MadelineProto-master.zip
@@ -2131,6 +2134,8 @@
       1 install.zip
       1 Instagram.zip
       1 instagram.zip
+      1 Instagram phishing page.zip
+      1 instagram-honey-trap.zip
       1 Insiders Team Gaming Site.zip
       1 innng.zip
       1 inicio.zip
@@ -3053,7 +3058,6 @@
       1 Chase @ezCrackers.zip
       1 Chase Email Fulz Fixed.zip
       1 Chase Clean.zip
-      1 CHASE BY SNAKE
       1 Chase BY CO-DEAD.zip
       1 CHASEBANK.zip
       1 chasebank.zip
@@ -3504,6 +3508,7 @@
       1 AMOL PHADKE NEW WEB.zip
       1 amex.zip
       1 Amex Page.zip
+      1 americanfirst.zip
       1 AmericanExpress. (2).zip
       1 americafirst.zip
       1 americafirst.zip
@@ -3576,7 +3581,6 @@
       1 ALAudio.dll.zip
       1 alaskausa.zip
       1 ALASKACU.zip
-      1 alaskaa.zip
       1 alan.zip
       1 alaice.zip
       1 alaice (1).zip
