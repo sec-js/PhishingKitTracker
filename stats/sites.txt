@@ -570,6 +570,7 @@
       1 www.verifyin.org
       1 www.verifyfirststates-new.fsairs.com
       1 www.verify-deviceonline.com
+      1 www.verify.bitmoon.tv
       1 www.verify03-login.serveuser.com
       1 www.verifikasi-facebook-login.my.id
       1 www.verificationclientanalytics.xyz
