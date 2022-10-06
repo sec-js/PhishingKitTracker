@@ -787,6 +787,7 @@
       1 staticobject-e.dat.zip
       1 stand.zip
       1 standard2land.zip
+      1 Standard (1).zip
       1 stackposts-v7.2.1.zip
       1 ssymbol.utx.zip
       1 ssl(1).zip
