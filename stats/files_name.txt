@@ -2349,6 +2349,8 @@
       1 govjgtyhh.zip
       1 Google Drive new.zip
       1 Googlecaptcha.zip
+      1 google-analytics-for-wordpress.8.4.0.zip
+      1 google-analytics-for-wordpress.8.3.4.zip
       1 gonieeciw.zip
       1 godaddy.zip
       1 godaddy.zip
