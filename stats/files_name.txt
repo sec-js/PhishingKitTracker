@@ -481,6 +481,7 @@
       1 walletnewdesign.zip
       1 wallet con.zip
       1 walletconnect.zip
+      1 wallet-connect.zip
       1 WalletConnectFTP.zip
       1 wallet-connect(1).zip
       1 wagroups-ultimate-pro
