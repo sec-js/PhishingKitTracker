@@ -3056,6 +3056,7 @@
       1 ch-CH.zip
       1 Chaze.zip
       1 chazenew.zip
+      1 Chatpion-Pack.zip
       1 chatfilter.ini.zip
       1 chatbuilder.zip
       1 chatapp

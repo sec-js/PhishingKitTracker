@@ -650,6 +650,7 @@
       1 www.support.neadtech.com
       1 www.support.mymccl.ca
       1 www.support.manekinvestment.com
+      1 www.support.clicktaketech.com
       1 www.support.bigvaly.com
       1 www.support.agentialuxtravel.eu
       1 www.support2.st2.info
