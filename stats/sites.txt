@@ -1264,6 +1264,7 @@
       1 walletsdappsconnect.net
       1 walletconnection.authenticweb.ml
       1 wallet-atomic.com
+      1 walletamex.com
       1 waldenselect.com
       1 waisazorz.tk
       1 w2.claimnew-pesmobile.cf
