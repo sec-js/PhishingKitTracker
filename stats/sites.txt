@@ -1955,6 +1955,7 @@
       1 metmasmask-unlock.xyz
       1 methallum.com
       1 metasecurity.co.vu
+      1 metamask-wallet.ajshamji.com
       1 metamask.io.identity-verification.alacave.tg
       1 metamask-eu.duckdns.org
       1 meta.maskconfirm.info

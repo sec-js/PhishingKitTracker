@@ -90,6 +90,7 @@
       2 MicrosoftSharePoint.zip
       2 microsoft(new).zip
       2 m.facebook.com.zip
+      2 MetaMask.zip
       2 login.made-in-china.com.zip
       2 link (1) (1).zip
       2 leafApp.zip
@@ -1816,7 +1817,6 @@
       1 met mask.zip
       1 meta.zip
       1 meta test.zip
-      1 MetaMask.zip
       1 metamask.zip
       1 metamask.zip
       1 mėtamask.app.zip
