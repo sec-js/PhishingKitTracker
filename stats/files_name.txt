@@ -2002,6 +2002,7 @@
       1 lawyer.zip
       1 launcher.zip
       1 latest.zip
+      1 latest.zip
       1 LatestVersion.zip
       1 latest.tar
       1 latest-pt
