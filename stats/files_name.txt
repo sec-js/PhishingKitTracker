@@ -1780,6 +1780,7 @@
       1 msxml4.dll.zip
       1 msxml4a.dll.zip
       1 msln.net.zip
+      1 MS-Doc
       1 MPS.zip
       1 MPS.zip
       1 MPS-SOLO
