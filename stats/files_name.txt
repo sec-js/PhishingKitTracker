@@ -1837,6 +1837,7 @@
       1 met mask.zip
       1 meta.zip
       1 meta test.zip
+      1 metamsk.zip
       1 metamask.zip
       1 metamask.zip
       1 mėtamask.app.zip
