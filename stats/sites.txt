@@ -56,6 +56,7 @@
       5 chalxe.duckdns.org
       5 bluishknare.com
       5 blakebabsonfirm.com
+      5 bigbubba.com
       5 app-suportesac.com
       5 aliceblueonline.in
       5 95.85.43.186
@@ -97,7 +98,6 @@
       4 compilacaonerd.com
       4 coba.tabalongkab.go.id
       4 b-post-centrum.xyz
-      4 bigbubba.com
       4 bdminfotech.in
       4 autoshine.ie
       3 yog.yva.mybluehost.me
