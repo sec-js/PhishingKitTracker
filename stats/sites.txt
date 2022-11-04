@@ -193,6 +193,7 @@
       3 businews.in
       3 brotherlaborer.com
       3 blog.mvlaorders.com
+      3 bigbubba.com
       3 app.factuel.pe
       3 annaharrisaccounting.com
       3 ankama-account.cam
@@ -466,7 +467,6 @@
       2 blog.abramge.com.br
       2 bizniz.app
       2 biketodinner.com
-      2 bigbubba.com
       2 beta.mynmi.net
       2 betaal-verzoek.club
       2 bertges.com.br
