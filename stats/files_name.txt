@@ -198,6 +198,7 @@
       1 zimbra
       1 zimbmy.zip
       1 Zimbfill.zip
+      1 zhex.zip
       1 zgra2pn.zip
       1 zerif-lite201719021.zip
       1 zerif-lite201702201.zip
