@@ -110,6 +110,7 @@
       3 www.nayyabgroup.com
       3 www.jakartascienceacademy.com
       3 www.f.account2.almusand.com
+      3 www.diagplus.com
       3 www.dashboard-paxful.com
       3 www.brooksoutlet.me
       3 www.allaboutanalysis.com
@@ -243,7 +244,6 @@
       2 www.emitafacilagora.com
       2 www.dropboxlogonsigninxpxs.murraybridgespeedwayclub.org.au
       2 www.droiddisplays.com.br
-      2 www.diagplus.com
       2 www.development.400startups.com
       2 www.culturanicolaita.umich.mx
       2 www.crpmoney.com
@@ -466,6 +466,7 @@
       2 blog.abramge.com.br
       2 bizniz.app
       2 biketodinner.com
+      2 bigbubba.com
       2 beta.mynmi.net
       2 betaal-verzoek.club
       2 bertges.com.br
@@ -2718,7 +2719,6 @@
       1 billing.rajanya.host
       1 billing.citywine.in
       1 bignaturals.za.net
-      1 bigbubba.com
       1 bgmixsuit.my.id
       1 bgmi-official-rewards.vipcheats.xyz
       1 betesxeleke.com
