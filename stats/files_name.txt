@@ -151,6 +151,7 @@
       2 atozonlinepharmacy.com.zip
       2 asiansoftwares
       2 asb.zip
+      2 arvest.zip
       2 apple.zip
       2 apolloherbals.co.in.zip
       2 antibots.zip
@@ -3540,7 +3541,6 @@
       1 ASB
       1 asami-foods-27-10-2020.zip
       1 aryapay.zip
-      1 arvest.zip
       1 arvest.zip
       1 artiste360.com.zip
       1 art-antiques.zip
