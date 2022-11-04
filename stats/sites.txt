@@ -5,9 +5,9 @@
      16 pet0ewiro930.xyz
      14 wordpress.appcrates.co
      13 windstudio.com.co
-     13 webdesignlegend.co.uk
      12 clients.freewebhostpro.net
      12 85.202.169.200
+     11 webdesignlegend.co.uk
      11 morioka9.com
      11 aviationimplicit.com
      10 www.xulina.xyz
@@ -99,7 +99,6 @@
       4 b-post-centrum.xyz
       4 bdminfotech.in
       4 autoshine.ie
-      3 yusif.ain.az
       3 yog.yva.mybluehost.me
       3 xiotrax.com
       3 www.trskl.com.br
@@ -209,6 +208,7 @@
       2 zsqwwxcgtyu.tk
       2 zindajaved.com
       2 zgamers.cf
+      2 yusif.ain.az
       2 xaw.bounceme.net
       2 www.yournetworkingiq.com
       2 www.viion.com.br
@@ -243,6 +243,7 @@
       2 www.emitafacilagora.com
       2 www.dropboxlogonsigninxpxs.murraybridgespeedwayclub.org.au
       2 www.droiddisplays.com.br
+      2 www.diagplus.com
       2 www.development.400startups.com
       2 www.culturanicolaita.umich.mx
       2 www.crpmoney.com
@@ -996,7 +997,6 @@
       1 www.dokansoft.top
       1 www.direct.capitecbank.fun
       1 www.difpt.org
-      1 www.diagplus.com
       1 www.dhlhomedelivery.com
       1 www.dhl-express.life
       1 www.dev.trackella.tk
@@ -2718,6 +2718,7 @@
       1 billing.rajanya.host
       1 billing.citywine.in
       1 bignaturals.za.net
+      1 bigbubba.com
       1 bgmixsuit.my.id
       1 bgmi-official-rewards.vipcheats.xyz
       1 betesxeleke.com
