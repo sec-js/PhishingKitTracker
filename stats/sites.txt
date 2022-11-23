@@ -20,17 +20,18 @@
      10 173.254.238.114
       9 www.oniinedoc.duckdns.org
       9 postnl-hl.net
+      9 jbutrgr.gq
       9 duetoarquitetura.com.br
       8 verified-capital.one
       8 shelivesstore.com
       8 onenineseveneight.com
       8 kurniaagung.net
-      8 jbutrgr.gq
       8 go-citien.duckdns.org
       8 dentalcat.com
       8 delivery.geektasticreview.com
       8 charolaisinternational.com
       7 www.eyeweb.in
+      7 superwingame.in
       7 jptechdocsign.net
       7 invoice.manangraphics.com
       7 develop.whmcs.com.ua
@@ -42,7 +43,6 @@
       6 www.claimitemsbugg.dnset.com
       6 wafatrust.com.pk
       6 vialiadv.com
-      6 superwingame.in
       6 mail.neetflix.ga
       6 gambras.tk
       6 fuzedev2.com
@@ -298,6 +298,7 @@
       2 update.llhoa.us
       2 unlimitedusps.com
       2 univers-smartphone.com
+      2 unilickingloci.com
       2 ugq.com.mx
       2 uextr.gq
       2 ubreopliu.cloudns.cl
@@ -1383,7 +1384,6 @@
       1 universelabworks.com
       1 universalconnectlive.com
       1 unitedglassfabrication.com
-      1 unilickingloci.com
       1 uniconet.cloudns.asia
       1 uni.accessd.clientlogin.info.update.bohemianbotanics.co.za
       1 unbiassa.xyz
