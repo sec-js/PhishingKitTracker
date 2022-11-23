@@ -20,18 +20,17 @@
      10 173.254.238.114
       9 www.oniinedoc.duckdns.org
       9 postnl-hl.net
-      9 jbutrgr.gq
       9 duetoarquitetura.com.br
       8 verified-capital.one
       8 shelivesstore.com
       8 onenineseveneight.com
       8 kurniaagung.net
+      8 jbutrgr.gq
       8 go-citien.duckdns.org
       8 dentalcat.com
       8 delivery.geektasticreview.com
       8 charolaisinternational.com
       7 www.eyeweb.in
-      7 superwingame.in
       7 jptechdocsign.net
       7 invoice.manangraphics.com
       7 develop.whmcs.com.ua
@@ -43,6 +42,7 @@
       6 www.claimitemsbugg.dnset.com
       6 wafatrust.com.pk
       6 vialiadv.com
+      6 superwingame.in
       6 mail.neetflix.ga
       6 gambras.tk
       6 fuzedev2.com
