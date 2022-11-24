@@ -57,6 +57,7 @@
       5 parkstatesbank.com
       5 nep.com.np
       5 materactiva.cl
+      5 mail.sentinel.co.zw
       5 ioabc.wif.com.br
       5 highaltitudes.net
       5 hiala.org
@@ -73,6 +74,7 @@
       5 aliceblueonline.in
       5 95.85.43.186
       4 zero-sample.net
+      4 yuugjd.verification.com.captureyourforever.com
       4 www.wildfire-beta.com
       4 www.track.eaea.sci.eg
       4 www.secure.lcr-reader.com
@@ -94,7 +96,6 @@
       4 mijnomgeving-ics.ru
       4 markphills.xyz
       4 manuvent.net
-      4 mail.sentinel.co.zw
       4 mail.fahdaldobian.com
       4 logln.blokckchaln.com
       4 jediweb.com.br
@@ -115,7 +116,6 @@
       4 b-post-centrum.xyz
       4 bdminfotech.in
       4 autoshine.ie
-      3 yuugjd.verification.com.captureyourforever.com
       3 yog.yva.mybluehost.me
       3 xiotrax.com
       3 www.trskl.com.br
