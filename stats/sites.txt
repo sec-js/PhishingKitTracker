@@ -94,6 +94,7 @@
       4 mijnomgeving-ics.ru
       4 markphills.xyz
       4 manuvent.net
+      4 mail.sentinel.co.zw
       4 mail.fahdaldobian.com
       4 logln.blokckchaln.com
       4 jediweb.com.br
@@ -114,6 +115,7 @@
       4 b-post-centrum.xyz
       4 bdminfotech.in
       4 autoshine.ie
+      3 yuugjd.verification.com.captureyourforever.com
       3 yog.yva.mybluehost.me
       3 xiotrax.com
       3 www.trskl.com.br
@@ -174,7 +176,6 @@
       3 mse.com.pk
       3 millennium.com.sv
       3 mdc.ng
-      3 mail.sentinel.co.zw
       3 mail.beefauth.duckdns.org
       3 machighwaytest.com
       3 limozap.com
@@ -232,7 +233,6 @@
       2 zprepay.com
       2 zindajaved.com
       2 zgamers.cf
-      2 yuugjd.verification.com.captureyourforever.com
       2 yusif.ain.az
       2 xaw.bounceme.net
       2 www.yournetworkingiq.com
