@@ -252,7 +252,6 @@
       2 www.rebarmodernfood.com
       2 www.rbcsecure.com
       2 www.paypalverification.gurkhasfood.com.au
-      2 www.new.nursingwritingservice.org
       2 www.nashikpestcontrol.maadigitalstudio.com
       2 www.myamazon-domainauthent.webredirect.org
       2 www.mglex.am
@@ -846,6 +845,7 @@
       1 www.noorpk.com
       1 www.nichetech.global
       1 www.new-via-auth.com
+      1 www.new.nursingwritingservice.org
       1 www.new-id-auth.dynamic-dns.net
       1 www.netflixuk.globalforus.com
       1 www.netflix-support-team.com
