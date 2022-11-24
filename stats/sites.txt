@@ -26,20 +26,20 @@
       8 superwingame.in
       8 shelivesstore.com
       8 onenineseveneight.com
+      8 mail.sentinel.co.zw
       8 kurniaagung.net
       8 go-citien.duckdns.org
       8 dentalcat.com
       8 delivery.geektasticreview.com
       8 charolaisinternational.com
+      7 yuugjd.verification.com.captureyourforever.com
       7 www.eyeweb.in
-      7 mail.sentinel.co.zw
       7 jptechdocsign.net
       7 invoice.manangraphics.com
       7 develop.whmcs.com.ua
       7 chemsbury.net
       7 cgi.papersmiths.com
       7 asiansoftwares.com
-      6 yuugjd.verification.com.captureyourforever.com
       6 www.fiveperstech.com
       6 www.claimrewdsitems.dnset.com
       6 www.claimitemsbugg.dnset.com
@@ -162,6 +162,7 @@
       3 refuleirp.com
       3 recreationrva.com
       3 recetasdelaabuela.me
+      3 rab-kzdbppss1.cf
       3 ps.unublitar.ac.id
       3 premierpropertiesnationwide.org
       3 portal.nci.cu.edu.eg
@@ -185,6 +186,7 @@
       3 konark.tech
       3 khushalient.com
       3 kenlawrence.me
+      3 justerclongre.info
       3 jio.tebseguros.com.br
       3 initouch.com
       3 ing-unterstutzung.info
@@ -369,7 +371,6 @@
       2 realitycourage.com
       2 rc-israel.co.il
       2 rackoons.com
-      2 rab-kzdbppss1.cf
       2 qytrga.duckdns.org
       2 probasi.biz
       2 potianx.ga
@@ -414,7 +415,6 @@
       2 kathimurphy.com
       2 karanikolas.biz
       2 kanban.advertlytics.net
-      2 justerclongre.info
       2 jabrealtylc.com
       2 iwantall-71.gq
       2 ipv6.stedelijklyceumexpo.be
