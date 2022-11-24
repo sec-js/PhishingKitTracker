@@ -174,7 +174,6 @@
       3 mse.com.pk
       3 millennium.com.sv
       3 mdc.ng
-      3 mail.sentinel.co.zw
       3 mail.beefauth.duckdns.org
       3 machighwaytest.com
       3 limozap.com
@@ -232,7 +231,6 @@
       2 zprepay.com
       2 zindajaved.com
       2 zgamers.cf
-      2 yuugjd.verification.com.captureyourforever.com
       2 yusif.ain.az
       2 xaw.bounceme.net
       2 www.yournetworkingiq.com
@@ -398,6 +396,7 @@
       2 mandeeferrier.com
       2 mail.type1production.com
       2 mail.trainingstrategist.com
+      2 mail.sentinel.co.zw
       2 macro.marketcosmos.com
       2 lovelykidsatarra.co.in
       2 loudhawseholet.com
@@ -561,6 +560,7 @@
       1 zarwes77.com
       1 zartoshti.org
       1 zamadeesoajd.xyz
+      1 yuugjd.verification.com.captureyourforever.com
       1 yours-71.tk
       1 youneedblackjesus.org
       1 yhpark.com
