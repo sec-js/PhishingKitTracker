@@ -90,6 +90,7 @@
       2 scotiabank3.zip
       2 rest.zip
       2 raboNew.zip
+      2 public
       2 PostOffice spamitup.zip
       2 possible.compromise.zip
       2 perfex-2.7.1.zip
@@ -103,11 +104,13 @@
       2 optimu double result.zip
       2 OLUCHAS3.zip
       2 Office365-Scampage- EDITED.zip
+      2 off1.zip
       2 ny.zip
       2 nf aspect.zip
       2 newshop.zip
       2 Netflix.zip
       2 netflix.zip
+      2 netease
       2 muglanapp.zip
       2 mtx21.zip
       2 moodle-latest-39 (1).zip
@@ -1592,7 +1595,6 @@
       1 OFF365NEW.zip
       1 off20.zip
       1 OFF2019
-      1 off1.zip
       1 off (1).zip
       1 ofc.zip
       1 ofc.zip
@@ -1745,7 +1747,6 @@
       1 netfli1x.zip
       1 netfli1x.zip
       1 Netfix-20.zip
-      1 netease
       1 NETBANK.zip
       1 net
       1 NEEEEEEEEEEEEEEEEEEEEEEXI.zip
