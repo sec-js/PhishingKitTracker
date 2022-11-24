@@ -1378,6 +1378,7 @@
       1 paindesucrerd.zip
       1 paindesucreparty.zip
       1 paiement-securise.zip
+      1 pagomente.zip
       1 pagina do iteck 6  e  4
       1 Pageme.zip
       1 PAGE INT.zip
@@ -3558,6 +3559,7 @@
       1 atlanticbb.zip
       1 athena (1).zip
       1 atb.zip
+      1 ATA80.zip
       1 AT
       1 Asuncoast.zip
       1 asueng.zip
