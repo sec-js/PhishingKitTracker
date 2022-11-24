@@ -22,9 +22,9 @@
       7 server
       7 podan.zip
       7 america first 8.0.zip
+      6 off1.zip
+      6 netease
       6 MetroCU.zip
-      5 off1.zip
-      5 netease
       5 3RIVERS.zip
       4 usuario.zip
       4 Suncoast.zip
@@ -101,6 +101,7 @@
       2 paypal.zip
       2 PAYLAX 
       2 paiement-securises.zip
+      2 pagomente.zip
       2 otmgem.com.zip
       2 optimu double result.zip
       2 OLUCHAS3.zip
@@ -179,6 +180,7 @@
       2 blog.zip
       2 Bankofamerica.zip
       2 atozonlinepharmacy.com.zip
+      2 ATA80.zip
       2 asiansoftwares
       2 asb.zip
       2 arubax.zip
@@ -1378,7 +1380,6 @@
       1 paindesucrerd.zip
       1 paindesucreparty.zip
       1 paiement-securise.zip
-      1 pagomente.zip
       1 pagina do iteck 6  e  4
       1 Pageme.zip
       1 PAGE INT.zip
@@ -3559,7 +3560,6 @@
       1 atlanticbb.zip
       1 athena (1).zip
       1 atb.zip
-      1 ATA80.zip
       1 AT
       1 Asuncoast.zip
       1 asueng.zip
