@@ -14,6 +14,8 @@
       9 office365-RD247-newdesign(1).zip
       9 nickel.zip
       8 Wells.zip
+      8 off1.zip
+      8 netease
       8 desjardins.zip
       8 comcast.zip
       8 cappycom.zip
@@ -21,16 +23,16 @@
       7 ServiceLogin%3fservice=mail&passive=true&rm=false&continue=.zip
       7 server
       7 podan.zip
-      7 off1.zip
-      7 netease
       7 america first 8.0.zip
       6 MetroCU.zip
       5 3RIVERS.zip
       4 usuario.zip
       4 Suncoast.zip
       4 sharepoint.zip
+      4 pagomente.zip
       4 office365-RD247-newdesign(1).zip
       4 Netflix (2).zip
+      4 ATA80.zip
       4 amaz.zip
       3 wetransfer.zip
       3 usps
@@ -39,7 +41,6 @@
       3 raboNew.zip
       3 prestashop
       3 pATXZ.zip
-      3 pagomente.zip
       3 Pagina bunaa.zip
       3 osol modiriyat.rar
       3 nyali.zip
@@ -55,7 +56,6 @@
       3 Docusign
       3 dhlf.zip
       3 dhlexp2m.zip
-      3 ATA80.zip
       3 arvest.zip
       3 are.zip
       3 Amilie-Index.zip
