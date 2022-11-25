@@ -6,15 +6,15 @@
      16 pet0ewiro930.xyz
      14 wordpress.appcrates.co
      13 windstudio.com.co
-     12 mail.sentinel.co.zw
      12 clients.freewebhostpro.net
      12 85.202.169.200
-     11 yuugjd.verification.com.captureyourforever.com
      11 webdesignlegend.co.uk
      11 transporteremolino.com
      11 morioka9.com
+     11 mail.sentinel.co.zw
      11 bank-verify.one
      11 aviationimplicit.com
+     10 yuugjd.verification.com.captureyourforever.com
      10 www.xulina.xyz
      10 www.skydigitalwebhost.xyz
      10 sbmbacklink.com
@@ -34,8 +34,6 @@
       8 delivery.geektasticreview.com
       8 charolaisinternational.com
       7 www.eyeweb.in
-      7 rab-kzdbppss1.cf
-      7 justerclongre.info
       7 jptechdocsign.net
       7 invoice.manangraphics.com
       7 develop.whmcs.com.ua
@@ -47,7 +45,9 @@
       6 www.claimitemsbugg.dnset.com
       6 wafatrust.com.pk
       6 vialiadv.com
+      6 rab-kzdbppss1.cf
       6 mail.neetflix.ga
+      6 justerclongre.info
       6 gambras.tk
       6 fuzedev2.com
       6 avatarinnochem123.aanibrothers.in
